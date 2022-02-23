@@ -1,0 +1,3546 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The constant nymph, or, The rambling shepheard a pastoral, as it is acted at the Duke's Theater / written by a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 116 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34368</idno>
+            <idno type="STC">Wing C5946</idno>
+            <idno type="STC">ESTC R1079</idno>
+            <idno type="EEBO-CITATION">13172388</idno>
+            <idno type="OCLC">ocm 13172388</idno>
+            <idno type="VID">98288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34368)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 734:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The constant nymph, or, The rambling shepheard a pastoral, as it is acted at the Duke's Theater / written by a person of quality.</title>
+                  <author>Person of quality.</author>
+                  <author>Sidney, Philip, Sir, 1554-1586. Arcadia.</author>
+               </titleStmt>
+               <extent>[8], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: prelim. p. [8].</note>
+                  <note>Based on Sidney's Arcadia.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98288:1" rendition="simple:additions"/>
+            <p>THE Conſtant Nymph: OR, THE Rambling Shepheard.</p>
+            <p>A PASTORAL.</p>
+            <p>As it is Acted at the DUKE's Theater.</p>
+            <p>VVritten by a Perſon of Quality.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Auguſt</hi> the 13th. 1677.</date>
+                           </dateline>
+                           <signed>Roger L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis</hi> in <hi>Goat-Court</hi> on <hi>Ludgate-Hill.</hi> 1678.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98288:2"/>
+            <pb facs="tcp:98288:2"/>
+            <head>THE DEDICATION.</head>
+            <p>TIs ſaid; and none who are Gen<g ref="char:EOLhyphen"/>tile, as the Readers of Plays moſt undoubtedly are, but will yeild it as Orthodox and Authentique, as any other of our Pro<g ref="char:EOLhyphen"/>verbial ſayings; <hi>Better be out of the World, than out of the Faſhion.</hi> Since, then this Paſtoral takes the Confidence to come abroad; it is requiſite, it ſhould follow the Mode; and like other Plays of this Age, have a Preface: Though, Scene and Perſons being Rurall, this Punctilio, perhaps, may be unexpected, and would have been diſpens'd with.</p>
+            <p>But having, (and who ſo Cautious to avoid a Rock, as the once Ship-wrackt?) ſuffer'd ſo much through the defects of ſetting off, when it came on the Stage, it dares not now reject any Accomoda<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:98288:3"/>the Preſs can give it. For (with the Theaters good leave to ſpeak Truth,) it cannot receive greater Diſadvantage in the Reading, than it met in the Preſenting, The chief Parts Acted by Women; and, for their Eaſe, and ſomewhat of deco<g ref="char:EOLhyphen"/>rum, as was pretended, whole ſcenes left out, and ſcarcely any one Speech un<g ref="char:EOLhyphen"/>mangled and entire. As for Adornments, in Habit, Muſick, and Scene-Work, it was Vacation-time, and the Company would not venture the Charge: Though they could not be ignorant, that without ſuch Embelliſhments, they might, with as much hope to have it take, have pre<g ref="char:EOLhyphen"/>ſented a Maſque as a Paſtoral. For, as well the one as the other receives it's Grace, more from Show then Plot; from Novel, and Sprightly Aires and Dan<g ref="char:EOLhyphen"/>ces, then curious and buſy Intrigues, bor<g ref="char:EOLhyphen"/>rowing more indeed of the Opera then Comedy. Wherefore, in regard of the great Coſt in the Preſentations of them, they are both of them made almoſt the peculiar divertiſement of Courts, at the Ce<g ref="char:EOLhyphen"/>lebration of Marriages, and the like Splen<g ref="char:EOLhyphen"/>did
+<pb facs="tcp:98288:3"/>Entertainments. But why all this? What avails it, if the Gallant likes not his Suite, to excuſe the Stuff, and blame the Trimming? Let the Fault then, as to the late caſe of this Paſtoral, be layd where it will; in the Meat, or the Seaſoning. It was happy in haveing ſuch Generous Gueſts, as could ſo civilly ſuppreſs their diſguſts. Wherefore, to thoſe moſt No<g ref="char:EOLhyphen"/>ble Perſons, as extreamly oblig'd, it is gratefully Dedicated. And now, whe<g ref="char:EOLhyphen"/>ther it be lik'd or diſlik'd, they are ſure of this, to be pleas'd with: 'Twill coſt leſs to read, than it did, (when acted) to ſee it,</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:98288:4"/>
+            <head>PROLOGUE, Spoken by Mrs. <hi>Lee,</hi> in Mans Cloaths.</head>
+            <sp>
+               <l>GAllants, to Night I'm to be one of you,</l>
+               <l>As Brisk, as Amorous, as Inconstant too;</l>
+               <l>A Spark that has Debauch'd e'ne half the Town,</l>
+               <l>Been kind to all the Sex, but true to none.</l>
+               <l>And t' Act that part to th' life</l>
+               <l>Suppoſe me now walking in <hi>Lumbarſtreet:</hi>
+               </l>
+               <l>Here I an old caſt Citty Mistreſs meet.</l>
+               <l>Madam, your humble Slave; I can't expreſs</l>
+               <l>My joy for this ſurprizing happineſs:</l>
+               <l>How does your Husband, the good Alderman?</l>
+               <l>I wonder at your impudence; how can <hi>In a Wo<g ref="char:EOLhyphen"/>mans Voyce.</hi>
+               </l>
+               <l>You ask that queſtion, falſe, ungrateful Man, <hi>In a Wo<g ref="char:EOLhyphen"/>mans Voyce.</hi>
+               </l>
+               <l>And know how much you have abuſed him? <hi>In a Wo<g ref="char:EOLhyphen"/>mans Voyce.</hi>
+               </l>
+               <l>—<hi>I In his voyce</hi>
+               </l>
+               <l>Abuſed him; Heaven forbid—<hi>I</hi> hope your joy, <hi>In his voyce</hi>
+               </l>
+               <l>My little Godſon grows a dainty Boy. <hi>In his voyce</hi>
+               </l>
+               <l>Yes Sir, I thank you, <hi>In her Voyce.</hi>
+               </l>
+               <l>He grows a pace, a very precious Bud, <hi>In her Voyce.</hi>
+               </l>
+               <l>But he's too like the Father to be good. <hi>In her Voyce.</hi>
+               </l>
+               <l>Thanks t' Heaven, that Thunder clap is at an end,</l>
+               <l>And now <hi>I</hi> meet a <hi>Covent-garden</hi>-Friend.</l>
+               <l>Madam, my old Acquaintance— <hi>In his Voyce.</hi>
+               </l>
+               <l>—Old, (cryes ſhe) <hi>In her Voyce.</hi>
+               </l>
+               <l>Why Sir, is it ſo long agoe ſince we— <hi>In her Voyce.</hi>
+               </l>
+               <l>Oh Madam, no old ſtoryes: <hi>I</hi> muſt own, <hi>In his voyce.</hi>
+               </l>
+               <l>
+                  <hi>I</hi> once was th' happy Man; but you are grown <hi>In his voyce.</hi>
+               </l>
+               <l>Acquainted ſince with half the Blades o' th' Town. <hi>In his voyce.</hi>
+               </l>
+               <pb facs="tcp:98288:4"/>
+               <l>Well, if I am: the greater Villain you, <hi>In her Voyce.</hi>
+               </l>
+               <l>You are the first my frailty ever knew. <hi>In her Voyce.</hi>
+               </l>
+               <l>And when <hi>In her Voyce.</hi>
+               </l>
+               <l>Her honour's lost, her Fortunes, mind too. <hi>In her Voyce.</hi>
+               </l>
+               <l>What would you have a poor weak Woman do?</l>
+               <l>Another cryes, you're a fine Gentleman!</l>
+               <l>Well, if <hi>I</hi> ever truſt a man again —</l>
+               <l>Did you not Swear, and tell me you would dye,</l>
+               <l>Before you'd wrong me: Oh the more Fool <hi>I.</hi>
+               </l>
+               <l>'Tis well you tired me out, teas'd me whole dayes,</l>
+               <l>Hurryed, and haunted me from Park to th' Plays;</l>
+               <l>Then kept me up whole Nights twixt ſleep and waking,</l>
+               <l>Or elſe, <hi>I</hi> am ſure, <hi>I</hi> had ne're been ſo o'retaken.</l>
+               <l>This is a man of Mode, and ſhould <hi>I</hi> ſpin ye</l>
+               <l>Your Crimes at length, lay all your ſins again' ye;</l>
+               <l>Raile at ye, ſay how many Devils are in ye,</l>
+               <l>T' abuſe poor Woman-kind, the work were eaſie,</l>
+               <l>But that <hi>I</hi> fear 'twould rather tire than pleaſe ye:</l>
+               <l>For how can that divert you in a Play,</l>
+               <l>That's your old conſtant Muſick every day.</l>
+            </sp>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:98288:5"/>
+            <head>Actors Names.</head>
+            <list>
+               <item>
+                  <hi>SYlvanus,</hi> chief Shepherd of <hi>Lycea,</hi> and Father of <hi>Trau<g ref="char:EOLhyphen"/>matius</hi> and <hi>Aſtrea,</hi>—Mr. <hi>Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dford.</hi>
+               </item>
+               <item>
+                  <hi>Astatius,</hi> the rambling Shepherd—Mrs. <hi>Mary Lee.</hi>
+               </item>
+               <item>
+                  <hi>Philiſides,</hi> a young Shepherd of <hi>Dipea,</hi> in Love with <hi>Aſtrea,</hi> and diſguis'd in a Shepherdeſſes Habit, by the name of <hi>Euplaſte,</hi>—Mrs. <hi>Barry.</hi>
+               </item>
+               <item>
+                  <hi>Traumatius,</hi> ſuppoſed dead, and diſguis'd in the Habit of a Prieſt, under the name of <hi>Evander,</hi>—Mr. <hi>Medburn.</hi>
+               </item>
+               <item>
+                  <hi>Iſmenius,</hi> a Prieſt,—Mr. <hi>Gillo.</hi>
+               </item>
+               <item>
+                  <hi>Melibeus,</hi> a Shepherd,—Mr. <hi>Jevon.</hi>
+               </item>
+               <item>
+                  <hi>Lilla,</hi> Mother to <hi>Alveria,</hi> &amp; Aunt to <hi>Philiſides,</hi>—Mrs. <hi>Norris.</hi>
+               </item>
+               <item>
+                  <hi>Aſtrea, Sylvanus</hi>'s Daughter,—Mrs. <hi>Wyn.</hi>
+               </item>
+               <item>
+                  <hi>Alveria, Lilla</hi>'s Daughter, in Love with <hi>Traumatius,</hi>—Mrs. <hi>Batterton.</hi>
+               </item>
+               <item>
+                  <hi>Lipomene,</hi> Shepherdeſſes.</item>
+               <item>
+                  <hi>Cloris,</hi> Shepherdeſſes.</item>
+               <item>
+                  <hi>Sylvia,</hi> Shepherdeſſes.</item>
+               <item>
+                  <hi>Clinias</hi> a merry Shepherd and Servant to <hi>Astatius,</hi>— Mr. <hi>Richards.</hi>
+               </item>
+               <item>
+                  <hi>Darmetas,</hi> Servant to <hi>Sylvanus,</hi>—Mr. <hi>Purſevall.</hi>
+               </item>
+            </list>
+            <p>Prieſts, Shepherds, Shepherdeſſes.</p>
+            <p>The SCENE <hi>Lycea,</hi> in <hi>Arcadia.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 6. l. 26. for <hi>Tents</hi> read <hi>Text,</hi> p. 28. l. 16. r. <hi>ſo pleaſe,</hi> p. 36. l. 8. for <hi>Breaſt</hi> r. <hi>Breath,</hi> p. 39. for <hi>ſelf</hi> r. <hi>life,</hi> p. 42. l. 4. r. <hi>Admoniſhment,</hi> ib. l. 22. r. <hi>profeſt,</hi> p. 45. l. 9. r. <hi>cancell'd.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:98288:5"/>
+            <head>THE Conſtant Nymph, &amp;c.</head>
+            <div n="1" type="act">
+               <head>ACT the FIRST.</head>
+               <div type="scene">
+                  <stage>
+                     <hi>Enter at one Door</hi> Melibeus, <hi>and</hi> Shepheards; <hi>at another,</hi> Lipomene <hi>and</hi> Shepherdeſſes.</stage>
+                  <sp>
+                     <speaker>Mel.</speaker>
+                     <l>BEhold! the Nymphs are up as ſoon as we,</l>
+                     <l>To Celebrate this Daye's Solemnity:</l>
+                     <l>So well they know, that in a Wedding-Feaſt,</l>
+                     <l>Their Sex and ours have equal Intereſt.</l>
+                     <l>Thou happy Swain, awake, awake;</l>
+                     <l>Thy mis-becomming Sleep forſake:</l>
+                     <l>The Sun was up an Hour agoe;</l>
+                     <l>And yet has nothing more to do,</l>
+                     <l>Than it had Yeſter-day. But thou'rt to take</l>
+                     <l>From the Prieſt's hands a Bleſſing, that would make</l>
+                     <l>The Veins of Age new Fire to take.</l>
+                     <l>And is thy Youth (to Youths great Shame,)</l>
+                     <l>Affected at it with leſs Flame?</l>
+                     <l>Forbid, O <hi>Pan,</hi> ſuch Prodigies.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Shep.</speaker>
+                     <l>Awake, awake, for Shame ariſe!</l>
+                     <stage>
+                        <hi>Enter</hi> Aſtatius <hi>Above.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Good-Morrow gentle Shepherds to you all,</l>
+                     <l>With hearty Thanks for this Harmonious Call.</l>
+                     <l>This civil Office too, I pray confer</l>
+                     <l>On my fair Bride; and when you have rais'd her,</l>
+                     <l>Repair to <hi>Ladons</hi> Houſe, within the Grove,</l>
+                     <l>And there I'le conſummate my happy Love.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div type="scene">
+                  <pb n="2" facs="tcp:98288:6"/>
+                  <head>The SCENE, <hi>Lilla</hi>'s Houſe.</head>
+                  <stage>
+                     <hi>Enter</hi> Lilla <hi>and</hi> Euplaſte.</stage>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <l>This Match is wholly by her Father made;</l>
+                     <l>She is but Paſſive in't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>'Tis e'ne as bad;</l>
+                     <l>Where lyes the Difference,</l>
+                     <l>When from my Fold my Lamb is gone, to ſay,</l>
+                     <l>That is was loſt, or that 'twas forced away?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <l>But I ſhould think that Act might ſoon be ſtaid;</l>
+                     <l>In doing which, anothers Will's obey'd,</l>
+                     <l>And not our own.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>I had the ſame Belief;</l>
+                     <l>But found her more in her Obedience ſtiff,</l>
+                     <l>Than others of her Sex are, in their Will:</l>
+                     <l>So vain t' avert her, proved my baffled Skill.</l>
+                     <l>Her Breath I told her, tho 'twas ſweeter far,</l>
+                     <l>Than from the Stills, the Drops of Roſes are;</l>
+                     <l>By ſaying ſhe was <hi>Aſtatitiuſes,</hi> would turn Aire,</l>
+                     <l>That would her Faces Beauty more impaire,</l>
+                     <l>Than ere an Ear of Corn, the Milldew did;</l>
+                     <l>'Twould blaſt her to a Leper: <hi>Pan</hi> forbid,</l>
+                     <l>She only cryed; for ſhe muſt venture it;</l>
+                     <l>Her Will muſt to her Father's Will ſubmit.</l>
+                     <l>But ſure, ſaid I, you will the Gods incenſe,</l>
+                     <l>In ſuch a Criminal Obedience,</l>
+                     <l>When you diſcard <hi>Philiſides</hi> true Love.</l>
+                     <l>When I thus found, that but in vain I ſtrove,</l>
+                     <l>I gave it o're; but ſo, as he whoſe ſtrength</l>
+                     <l>In Swimming's ſpent, yeilds to be drown'd at length.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <l>Well, do not thus afflict your ſelf, take heart;</l>
+                     <l>Impatience makes our Wounds but more to ſmart.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>But they are but weak Surgeons, who to cure 'em,</l>
+                     <l>Apply no other Salve, but to endure 'em.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <p>I've done my beſt, but Fates have croſt my Will.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>And makes that leſs, or more, my ill?</p>
+                  </sp>
+                  <sp>
+                     <pb n="3" facs="tcp:98288:6"/>
+                     <speaker>Lill.</speaker>
+                     <p>Who knows but this may turn to greater good?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>That Good affects not, that's not underſtood.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Dametas.</stage>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <l>Hold, here's <hi>Dametas;</hi> happily we may</l>
+                     <l>Learn out of him, what may your Griefs allay:</l>
+                     <l>Shift then your Sayle, and lay your Paſſions down;</l>
+                     <l>Seem unconcern'd, as if 'twere all unknown,</l>
+                     <l>What-e're we ſay.</l>
+                     <l>
+                        <hi>Dametas,</hi> What brings you?</l>
+                     <l>You're grown a Stranger here.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>'Tis true.</l>
+                     <l>I would the cauſe of it had never been;</l>
+                     <l>I weep when e're my Thoughts it enters in:</l>
+                     <l>But let that paſs, good <hi>Lilla,</hi> and receive</l>
+                     <l>The Meſſage I have brought, to have your Leave,</l>
+                     <l>That your fair Daughter, with her Preſence, may</l>
+                     <l>Add Luſter to <hi>Aſtreas</hi> Bridal Day.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <l>Forgive me Fame; For till this Witneſs came,</l>
+                     <l>I thought thou didſt but raiſe a Lye, to ſhame</l>
+                     <l>
+                        <hi>Aſtrea</hi> with: Or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> it my Miſtake?</l>
+                     <l>And will ſhe then her deareſt Swain forſake,</l>
+                     <l>If Love be a good Title, and her Breaſt</l>
+                     <l>But with one Grain of Loyalty poſſeſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>Who's that, dear Swain? pray name him, if you pleaſe</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <p>As if you knew not: 'Tis <hi>Philiſides.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>You do ill, <hi>Lilla,</hi> to be ſo o're-ſway'd</l>
+                     <l>By partial Love, before this ſtranger Maid,</l>
+                     <l>Becauſe he is your Nephew: To ſuggeſt,</l>
+                     <l>He in <hi>Aſtrea</hi> has ſuch Intereſt,</l>
+                     <l>As that ſhe ought to marry him, whom ſhe</l>
+                     <l>Nor can, nor may.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <p>Make that appear to me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>I ſhall, at leaſt to you, fair Maid, I ſhall;</l>
+                     <l>For fear you elſe, thro' ignorance might fall <hi>To</hi> Eup.</l>
+                     <l>Into ſome doubtings of <hi>Aſtreas</hi> Truth.</l>
+                     <l>For 'tis confeſt. 'twixt her, and that named Youth,</l>
+                     <l>Some Love has paſt.</l>
+                  </sp>
+                  <sp>
+                     <pb n="4" facs="tcp:98288:7"/>
+                     <speaker>Eup.</speaker>
+                     <p>And why not then purſued?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>Cauſe with more Piety ſhe is endued.</l>
+                     <l>
+                        <hi>Sylvanus,</hi> whom I ſerve, for Age and State,</l>
+                     <l>In our <hi>Arcadia</hi> is a Magiſtrate:</l>
+                     <l>He, by his Wife, ſome Years ago deceaſt,</l>
+                     <l>Was with a Son, and with a Daughter bleſt;</l>
+                     <l>
+                        <hi>Traumatius</hi> and <hi>Aſtrea,</hi> they were Named,</l>
+                     <l>And for their Graces far and near were famed.</l>
+                     <l>They both, as ſoon as Ripe for't, fell in Love:</l>
+                     <l>But with croſs Fate, for ſo it ſoon did prove:</l>
+                     <l>He with <hi>Alveria, Lilla</hi>'s Daughter here,</l>
+                     <l>A Nymph for Conſtancy beyond compare;</l>
+                     <l>She with that Youth, whom <hi>Lilla</hi> now did Name:</l>
+                     <l>But, cauſe from a <hi>Dipean</hi> Race both came,</l>
+                     <l>My Maſter was ſo much againſt it bent,</l>
+                     <l>As to their Marriages he'd ne'r conſent.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>From whence aroſe to that ſame Race his Spleen?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>From an invertrate Hate, that is between</l>
+                     <l>
+                        <hi>Lyceans</hi> and <hi>Dipeans;</hi> For altho,</l>
+                     <l>Both are <hi>Arcadians,</hi> both are Shepheards too:</l>
+                     <l>And, but by th' River <hi>Aris</hi> parted: Yet,</l>
+                     <l>'Twixt <hi>Troy</hi> and <hi>Greece,</hi> the Fewd was not more great,</l>
+                     <l>Than that which 'twixt theſe neighbouring Shepherds is.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>And is this Mortal Spleen of his</l>
+                     <l>So ſweet? For were't not ſo, he might have got</l>
+                     <l>The Tittle of a better Patriot.</l>
+                     <l>If he had with the Gods good Purpoſe joyn'd,</l>
+                     <l>And by their Internuptials put an end</l>
+                     <l>To that long Feud betwixt you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>I confeſs,</l>
+                     <l>That I my ſelf conceived no leſs;</l>
+                     <l>And gave it my beſt Help upon that ſcore:</l>
+                     <l>Till Chance came in, and rendered (what before</l>
+                     <l>Was hard) impoſſible. There chanced one Day,</l>
+                     <l>'Twixt Us and the <hi>Dipeans,</hi> a fierce Fray;</l>
+                     <l>In which <hi>Traumatius</hi> fell, and by that Youth</l>
+                     <l>
+                        <hi>Philiſides.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <l>Suppoſe that it be Truth,</l>
+                     <pb n="5" facs="tcp:98288:7"/>
+                     <l>Does ſuch a Chance claim from the Gods Above,</l>
+                     <l>The Power t'Abſolve her from her Oaths of Love.</l>
+                     <l>And whil'ſt <hi>Philiſides</hi> is known to live,</l>
+                     <l>To wed another, toleration give;</l>
+                     <l>I think, tho he has done all he could do,</l>
+                     <l>It will not be, fair Maid, ſo judged by you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>'Twill not indeed. And truly I much grieve,</l>
+                     <l>That ſuch a fair Nymph as ſhe is, ſhould give</l>
+                     <l>Such bad Example. O return with ſpeed;</l>
+                     <l>And whilſt there's time allow'd for't, get her freed</l>
+                     <l>From that ſole Spot ſhe bears. By which you'l prove</l>
+                     <l>Your Faithfulneſs to Her, and Zeal for Love.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>My Will's not wanting. Let the Gods but lead,</l>
+                     <l>And I to follow them no Wings ſhall need.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <stage>
+                     <hi>Eneer</hi> Sylvanus.</stage>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>This Day will bring me once again to Reſt,</l>
+                     <l>'Twill root that dangerous Canker from my Breaſt</l>
+                     <l>Lay gnawing there ſo long. <hi>Traumatius</hi> dead!</l>
+                     <l>And my <hi>Aſtrea</hi> to <hi>Aſtatius</hi> Wed;</l>
+                     <l>My Fear of mixing our <hi>Lycean</hi> Blood</l>
+                     <l>with the <hi>Dipean,</hi> has its Period.</l>
+                     <stage>
+                        <hi>Enter</hi> Melibeus <hi>and</hi> Shepheards.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Melib.</speaker>
+                     <p>A happy Morning to the good <hi>Sylvanus;</hi> Health and long Life, the kindeſt Gifts of Heav'n, Attend him:</p>
+                     <p>
+                        <hi>Aſtatius</hi> will this Morning make him happy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>
+                        <hi>Aſtatius!</hi> Where is he? Let him appear</l>
+                     <l>Bright as the Morning-Star.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mel.</speaker>
+                     <l>Himſelf's not here;</l>
+                     <l>But has ſent us, as by our Duties ty'd,</l>
+                     <l>With our ſhrill Pipes, to call up his fair Bride.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>And can your Fancies go ſo much aſtray,</l>
+                     <l>As to conceit, that on her Wedding Day,</l>
+                     <l>A Maid needs calling up? Or your Pipes can,</l>
+                     <l>(Tho they were ſhriller than the Pipes of <hi>Pan</hi>)</l>
+                     <l>More lowdly do't, than their own Longings can.</l>
+                     <l>Then beck fond Swains, bring him; 'Tis only he</l>
+                     <l>Can make the acceptable Harmony.</l>
+                  </sp>
+                  <stage>Exeunt Shepheards. Enter</stage>
+                  <pb n="6" facs="tcp:98288:8"/>
+                  <stage>
+                     <hi>Enter</hi> Dametas, <hi>bringing in</hi> Lipomene, Cloris, Sylvia; <hi>All with Willow Garlands.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>Fair Shepherdeſſes, you are welcome:</l>
+                     <l>This Maiden-Office you ſo kindly do</l>
+                     <l>To my Girle now, ſhall ſoon be done to you:</l>
+                     <l>But why thus Garlanded with Willow?</l>
+                     <l>Some evil Omen in't, I greatly fear.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lip.</speaker>
+                     <l>No more than in the Purple Kings do wear.</l>
+                     <l>Mourning put on, do's but denote ills paſt;</l>
+                     <l>Of what's to come, it no Preſage do's caſt.</l>
+                     <l>And tho their Hearts, who wear it, may regret,</l>
+                     <l>It bodes not any ill to thoſe that ſee't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>But who in Mourning come to Wedding-Feaſts,</l>
+                     <l>Are much un-modiſh, and ill-ſuited Gueſts.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lip.</speaker>
+                     <l>What other can theſe Willow-wreaths declare,</l>
+                     <l>Than that we once were Loved, and now forſaken are:</l>
+                     <l>And all of us by one.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <p>Pray, Who was he?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lip.</speaker>
+                     <l>He who this Day, do's make the World to ſee</l>
+                     <l>What mighty Power <hi>Astreas</hi> Beauty has;</l>
+                     <l>That it can force him to be True, who was</l>
+                     <l>So Faithleſs in his Love to us before;</l>
+                     <l>And Heav'n knows, to how many more:</l>
+                     <l>For who in Love, from Truth but once does fall,</l>
+                     <l>Takes Falſhood up, that has no Bounds at all.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>But oft falſe Gloſſes on the Tents are found;</l>
+                     <l>And poſſibly, fair Maids, you may Expound</l>
+                     <l>That to be Love in him, which was in Truth,</l>
+                     <l>But the Comport of Beauty, due from Youth:</l>
+                     <l>And this is the right-ſtated Caſe 'twixt You</l>
+                     <l>And Him. Confeſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lip.</speaker>
+                     <p>So <hi>Cloris,</hi> is it ſo?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Clor.</speaker>
+                     <l>Let him be Judge of that,</l>
+                     <l>Who's pleas'd betwixt us ſo the Caſe to ſtate.</l>
+                     <l>This Breid of our mixt Hair he took and ſwore:</l>
+                     <l>With that ſame ſixt Reſolve, ſaid he,</l>
+                     <l>I ſwear to You, ſwear you to to Me</l>
+                     <pb n="7" facs="tcp:98288:8"/>
+                     <l>By all the Gods above, below,</l>
+                     <l>(To whom we Fear or Worſhip owe)</l>
+                     <l>I ſwear, ſaid he; I ſwear, ſaid I,</l>
+                     <l>And all Equivocations flye;</l>
+                     <l>That as our Hair's here, in a kind</l>
+                     <l>Of Nuptial Knot together joyn'd;</l>
+                     <l>So are our Hearts, and ſo ſhall be</l>
+                     <l>Till Death diſſolve the Unity.</l>
+                     <l>And then, for Seal to what was ſaid,</l>
+                     <l>He firſt, then I, did kiſs the Breid.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lip.</speaker>
+                     <l>You'll grant <hi>Sylvanus</hi> ſure, here do's appear</l>
+                     <l>No falſe Gloſs on the Text — But <hi>Sylvia</hi> here.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>No, there's no need: I've heard too much;</l>
+                     <l>I ſhall,</l>
+                     <l>From this wrong'd Nymph, conclude him falſe to all.</l>
+                     <l>But what is that, that you would have me do?</l>
+                     <l>Confine this vagrant Lover ſo to you,</l>
+                     <l>That my <hi>Aſtrea</hi> never may be his.</l>
+                     <l>You'd be too partial in requiring this:</l>
+                     <l>Since for each other you can Willow wear,</l>
+                     <l>Think't not to much to wear it too for her.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lip.</speaker>
+                     <l>Scoff not <hi>Sylvanus</hi> at our Fate. The Gods</l>
+                     <l>Have Ears to hear, and to chaſtiſe you, Rods.</l>
+                     <l>Sir, You miſtake, if you conceive, that we</l>
+                     <l>Came to break off this Dayes Solemnity:</l>
+                     <l>No; but as Sea-men being ſav'd from Wrack,</l>
+                     <l>The raging Winds that threatned it, call'd back;</l>
+                     <l>As ſoon as they are Landed, make repair</l>
+                     <l>Unto the Temple of their Tutelar;</l>
+                     <l>And there for Life beſtow'd, upon their Knees,</l>
+                     <l>Hang up unto the Gods their Donaries:</l>
+                     <l>So We, reſtored t' our Liberty agen,</l>
+                     <l>Loſt by our Vows to that moſt falſe of Men,</l>
+                     <l>Are hither come, on theſe Tryumphant Gates,</l>
+                     <l>Joyntly to hang our Willow Chaplets;</l>
+                     <l>That there Erected, they may ſtand to be</l>
+                     <l>The Monuments of our Captivity.</l>
+                     <pb n="8" facs="tcp:98288:9"/>
+                     <l>And that <hi>Astrea</hi> 'twas, that ſet us free.</l>
+                     <stage>They hang up their Garlands.</stage>
+                     <l>Thus all our deep Reſentments of his Scorn,</l>
+                     <l>Are with our Wreaths put off; and we are come</l>
+                     <l>On your fair Daughters Bridal to attend.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>Then enter in Fair Nymphs, and kindly lend</l>
+                     <l>The Bride your Beauties, to Adorne her Feaſt;</l>
+                     <l>And let your Heads with fitter Wreaths be dreſt.</l>
+                  </sp>
+                  <stage>Exe<g ref="char:EOLhyphen"/>unt Shepherdeſſes.</stage>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>May I have leave to ſpeak?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>Be brief in't then:</l>
+                     <l>My Mind is troubled.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>But 'twould more have been,</l>
+                     <l>Had you not had this warning to prevent it:</l>
+                     <l>Wed not your Child where you will ſure repent it.</l>
+                     <l>Falſe to thoſe Nymphs? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ere hope he'll be more true</l>
+                     <l>In's Love to her, 'cauſe Marriage do's enſue:</l>
+                     <l>For, will there be 'twixt Heart and Lips, leſs Odds,</l>
+                     <l>When a Prieſt hears his Words, than when the Gods?</l>
+                     <l>Who gives the Maſter a Reſpect ſo light,</l>
+                     <l>Will more (you may preſume) the Servant ſlight.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>And who will wed her, if he wed her not?</l>
+                     <l>The Wedding-Cloaths upon her back once got,</l>
+                     <l>A Maids fleſh ſtraite takes teint:</l>
+                     <l>Shall I a Match then for my Child refuſe,</l>
+                     <l>When I can never hope to have the like?</l>
+                     <l>No, whil'ſt 'tis hot, the Marriage up I'le ſtrike.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <p>Think of his Contracts yet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>And Laugh at them,</l>
+                     <l>To whom ſuch Fopperies could Contracts ſeem.</l>
+                     <l>From Matching of my Girle with him, ne're think</l>
+                     <l>For a <hi>Chimaera</hi> of broke Faith I'le ſhrink.</l>
+                     <l>A Lover breaks no Faith, till Faith be made;</l>
+                     <l>And no way he makes Faith, till Faith be made;</l>
+                     <l>And no way he makes Faith, till Marryed.</l>
+                     <l>All ſaid or done before, 's but making Love;</l>
+                     <l>And if not kept, creates but Mirth for <hi>Jove.</hi>
+                     </l>
+                     <l>I'm fixt in't then, he ſhall <hi>Aſtrea</hi> Wed;</l>
+                     <l>I'le be by Wit (not Superſtition) led.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <pb n="9" facs="tcp:98288:9"/>
+                  <stage>Aſtrea <hi>is diſcover'd in her Bridal-Chamber.</hi>
+                  </stage>
+                  <lg>
+                     <head>A SONG, Sung in Parts.</head>
+                     <l>
+                        <hi>Come, come</hi> Aſtatius, <hi>come away;</hi>
+                     </l>
+                     <l>
+                        <hi>Love is affronted by thy ſtay;</hi>
+                     </l>
+                     <l>
+                        <hi>Beauty it ſelf too is Diſgrac'd,</hi>
+                     </l>
+                     <l>
+                        <hi>If Love more ſloweſt at the laſt.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>The Muſes he do's stay to bring,</hi>
+                     </l>
+                     <l>
+                        <hi>That they the Nuptial-Song may Sing:</hi>
+                     </l>
+                     <l>
+                        <hi>And they, perhaps, are not yet drest,</hi>
+                     </l>
+                     <l>
+                        <hi>As does become ſo great a Feaſt.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>Chorus.</head>
+                     <l>
+                        <hi>Oh think him not ſo dimnly Ey'd:</hi>
+                     </l>
+                     <l>
+                        <hi>The Muſes all are in the Bride.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Come, come</hi> Aſtatius, <hi>come away,</hi>
+                     </l>
+                     <l>Hymen's <hi>affronted by thy ſtay:</hi>
+                     </l>
+                     <l>
+                        <hi>For who t' his Marriage does not hast,</hi>
+                     </l>
+                     <l>
+                        <hi>Looſens the Knot he ſhould make faſt.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>The Graces he will bring, perchance,</hi>
+                     </l>
+                     <l>
+                        <hi>That they may at the Wedding Dance:</hi>
+                     </l>
+                     <l>
+                        <hi>And they, perhaps, make this delay,</hi>
+                     </l>
+                     <l>
+                        <hi>To form the Figures on the way.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>Chorus.</head>
+                     <l>
+                        <hi>Oh think him not ſo dimnly Ey'd!</hi>
+                     </l>
+                     <l>
+                        <hi>The Graces all are in the Bride.</hi>
+                     </l>
+                     <l>
+                        <hi>The</hi> Scene <hi>Cloſes.</hi>
+                     </l>
+                  </lg>
+                  <stage>
+                     <hi>Enter</hi> Aſtatius <hi>and</hi> Clinias.</stage>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Then for her Humour, Mild as is the Dove,</l>
+                     <l>No Tincture of the Gall in't; all runs Love.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Ceaſe your fond Flattery, Fool, you cannot ſcrew</l>
+                     <l>It high enough, to reach <hi>Aſtreas</hi> Due.</l>
+                     <l>Yet I remember too, when others were</l>
+                     <l>As High as ſhe, as Charming, and as Fair.</l>
+                  </sp>
+                  <sp>
+                     <pb n="10" facs="tcp:98288:10"/>
+                     <speaker>Clin.</speaker>
+                     <l>And ſo do I: Yes, I remember, who</l>
+                     <l>It was that call'd em Fair, and Charming too:</l>
+                     <l>Nay, I can ſome Particulars repeat,</l>
+                     <l>Which made each of 'em have Eſteem ſo great.</l>
+                     <l>O ſee in <hi>Sylvias</hi> Face ſo ſweet an Aire,</l>
+                     <l>So truly pleaſant, and as kind as fair.</l>
+                     <l>How with their pretty Caſts do <hi>Cloris</hi> Eyes,</l>
+                     <l>Whilſt they but ſeem to wanton, Hearts ſurprize?</l>
+                     <l>How <hi>Phillis</hi> Features match, more Lovely far,</l>
+                     <l>Than do the Doves draw <hi>Cythereas</hi>-Char.</l>
+                     <l>How does <hi>Lipomenes</hi> Complexion ſhow.</l>
+                     <l>What Graces from Divine <hi>Selinda</hi> flow.</l>
+                     <l>How <hi>Eromenas</hi> ſhape.—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Sirrah, No more.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>I have ſcarce begun the Roll, and muſt give o're.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Hye you to <hi>Ladons;</hi> look you that I find</l>
+                     <l>All things in order, as I have deſign'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Ne'r doubt to find all things to your content,</l>
+                     <l>When you truſt <hi>Clinias</hi> with the Management.</l>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Clinias.</stage>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>The Raſcal has my Humour to a Hair:</l>
+                     <l>I ne'r can come where Angell-Women are:</l>
+                     <l>But in their Faces I enough eſpy,</l>
+                     <l>To make me on, and off, as faſt to fly.</l>
+                     <l>For Love, me thinks, like Water in the Street,</l>
+                     <l>Corrupts when't ſtands; but when it runs, 'tis ſweet.</l>
+                     <l>'Tis in the making Love, Love's Pleaſure lies;</l>
+                     <l>When to the Quarry it once comes, it dies.</l>
+                     <l>How nauſeous do thoſe Sweets, we're cloy'd with, grow?</l>
+                     <l>The Shun-ſhine's pleaſant for a Walk or too:</l>
+                     <l>But, when that once to Travail in't we come,</l>
+                     <l>It grows exceeding hot and troubleſome.</l>
+                     <l>Love, whilſt 'tis making, is a Comedy,</l>
+                     <l>For fine Intrigues, full of Variety.</l>
+                     <l>But when that once to Marriage it deſcends,</l>
+                     <l>In an old Country Dance it dully ends.</l>
+                     <l>And why then do I marry now? May he</l>
+                     <l>Be hang'd can tell. But it has fared with me,</l>
+                     <pb n="11" facs="tcp:98288:10"/>
+                     <l>As with a Souldier, on the Breach ſo got,</l>
+                     <l>That how he may, get off, he then ſees not:</l>
+                     <l>But ſetting then a good Face on't, he'll cry,</l>
+                     <l>Tho his Heart trembles, Vict'ry, Victory;</l>
+                     <l>As I <hi>Aſtrea, Aſtrea!</hi>
+                     </l>
+                     <l>For when a fair Retreat is paſt our Skill,</l>
+                     <l>'Tis brave to make Neceſſity our Will.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>ACT the SECOND.</head>
+               <div type="scene">
+                  <stage>
+                     <hi>Enter</hi> Iſmenius <hi>and</hi> Evander.</stage>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>I Wonder how you can hold out, and ſee</l>
+                     <l>
+                        <hi>Alveria</hi> grieve to that Extremity.</l>
+                     <l>She in the Vault, as in a Temple, dwells;</l>
+                     <l>And to the Coffin, as a Shrine, ſhe kneels:</l>
+                     <l>She ſighs, ſhe weeps, ſo heavily takes on,</l>
+                     <l>As if, like <hi>Niobe,</hi> ſhe'd turn to Stone.</l>
+                     <l>Come, give it over, Sir; How can you take</l>
+                     <l>Delight to keep her Miſeries awake.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evand.</speaker>
+                     <l>Who knows, 'tis for his Health, muſt not forſake</l>
+                     <l>His Courſe of Phyſick, tho preſcribed he be,</l>
+                     <l>What makes him ſicker than a ſtorm at Sea.</l>
+                     <l>No Tear ſhe ſheds, but is a Corraſive</l>
+                     <l>To my wrack'd Heart. Such Pains her Pains do give.</l>
+                     <l>And not a ſigh ſhe breaths, but nips my Blood</l>
+                     <l>Worſe than the Eaſtern Wind an early bud.</l>
+                     <l>But yet the End I ſuffer't for, is good.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>That is</l>
+                     <l>To perſecute the Creature you adore.</l>
+                     <l>No; torture her diſtracted Soul no more.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evand:</speaker>
+                     <l>Dear Friend, you cannot ſearch a Lovers Heart:</l>
+                     <l>Then blame me not for this Myſterious Art.</l>
+                     <l>By this Diſguiſe, and by my ſeeing Death,</l>
+                     <l>I'le have the nobleſt Tryall of her Faith,</l>
+                     <l>That Lover ever made.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div type="scene">
+                  <pb n="12" facs="tcp:98288:11"/>
+                  <head>The SCENE, a Vault, With a Coffin. Alveria <hi>ſtanding by it.</hi>
+                  </head>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>But why, <hi>Alveria,</hi> doſt thou ſo miſtake,</l>
+                     <l>To lay aſleep whom thou ſhould'ſt rather wake:</l>
+                     <l>Thy Sighs and Tears to Exclamations turn;</l>
+                     <l>They ſeem contented, who do only Mourn.</l>
+                     <l>Curſe, curſe the Fates! And with a Voyce ſo lowd,</l>
+                     <l>As with its Thunder, it may rend the Shrowd</l>
+                     <l>That wraps him up, and give him Power to riſe!</l>
+                     <l>Make Death ſly from him, frighted at my Cryes!</l>
+                     <l>And ſee what Magick Reigns but in that Thought!</l>
+                     <l>The Cheſt's already into Motion brought.</l>
+                     <l>I, I, it moves! and my dear Love's alive!</l>
+                     <l>Oh, to come forth to me, how he does ſtrive!</l>
+                     <l>But do not bruiſe thy ſelf, I'le help thee, dear;</l>
+                     <l>Deſire to ſee thee, into Strength turns Fear.</l>
+                     <stage>Endeavours to break open the Coffin.</stage>
+                     <l>Beſhrew their Hands that laid thee in ſo faſt:</l>
+                     <l>But had the Cabinet been Steel, yet I</l>
+                     <l>Would make it like the Brittle Chriſtal fly.</l>
+                     <l>And Thanks to Heaven, my Work is done.</l>
+                     <l>How like unto the Freſhneſs of the Morn;</l>
+                     <stage>Breaks it open.</stage>
+                     <l>Or fragrant Wind, that's o're Mount <hi>Hybla</hi> born,</l>
+                     <l>Is this ſweet Air comes now from him: But why</l>
+                     <l>Should any one with Wonder be poſſeſt,</l>
+                     <l>To find a <hi>Phoenix</hi> in a Spicy Neſt.</l>
+                     <l>
+                        <hi>Traumatius! Traumatius!</hi> What, lye unmoved,</l>
+                     <l>When thy <hi>Alveria,</hi> thy once ſo Beloved</l>
+                     <l>
+                        <hi>Alveria,</hi> calls! Oh, he in this does tell</l>
+                     <l>What's pretious does lye cloſe: Pearls in the Shell;</l>
+                     <l>And Diamonds in the Rock: Gems muſt be ſought;</l>
+                     <l>And at what-ever Price, are Cheaply bought.</l>
+                  </sp>
+                  <stage>Iſmenius <hi>and</hi> Evander, <hi>Enter at a Diſtance.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>See with what Zeal ſhe tends the ſacred Duſt!</l>
+                     <l>Was ever Love ſo True, or Faith ſo Juſt!</l>
+                  </sp>
+                  <pb n="13" facs="tcp:98288:11"/>
+                  <stage>Alveria <hi>ſearches the Coffin; But finds nothing in it, but Sepulchral-Flowers, Lillies, Roſes, Hyacinths, and Boughs of Mirtle.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>Are my Hopes fled, and all my Joyes with them?</l>
+                     <l>Here's no <hi>Alveria</hi> here; I did but Dream.</l>
+                     <l>Others reſolve to Duſt, I grant, 'cauſe they</l>
+                     <l>Are but Compoſed of Nature's comon Clay:</l>
+                     <l>But he to Flowers, who was the Prime of all:</l>
+                     <l>And now, to his firſt Being is diſſolved.</l>
+                     <l>
+                        <hi>His Skin to Lillies; But, Alas,</hi>
+                     </l>
+                     <l>
+                        <hi>They ſcarce are white to what that was:</hi>
+                     </l>
+                     <l>
+                        <hi>His Fleſh to Roſes; But for Scent,</hi>
+                     </l>
+                     <l>
+                        <hi>That farr in Sweetneſs thoſe out-went.</hi>
+                     </l>
+                     <l>
+                        <hi>His Blood to</hi> Hyacinths: <hi>But how</hi>
+                     </l>
+                     <l>
+                        <hi>Richer in Purple then, than now.</hi>
+                     </l>
+                     <l>
+                        <hi>And unto Myrtle Boughs, his Bones;</hi>
+                     </l>
+                     <l>
+                        <hi>But, Oh in due Proportions,</hi>
+                     </l>
+                     <l>
+                        <hi>How ſhort of them! I, theſe are he.</hi>
+                     </l>
+                     <l>
+                        <hi>And now again, as formerly,</hi>
+                     </l>
+                     <l>
+                        <hi>In the ſoft Murmuring of Doves,</hi>
+                     </l>
+                     <l>
+                        <hi>We'll mutually ſet forth our Loves.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>Oh an Impiety, that frights me more,</l>
+                     <l>Than if than <hi>Neptune</hi> had our Beach got o're!</l>
+                     <stage>
+                        <hi>To</hi> Al<g ref="char:EOLhyphen"/>veria.</stage>
+                     <l>Or that the Wain-Beam of <hi>Bootes</hi> crackt.</l>
+                     <l>What Sacrilegious Hand durſt do this Act?</l>
+                     <l>Found you it thus?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>Peace Sirs, and leave this Place;</l>
+                     <l>Do not in Manners, ſo your ſelves diſgrace.</l>
+                     <l>To interrupt us Lovers, is unkind.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>Oh, ſhe's diſtracted, talks ſhe knows not what!</l>
+                     <l>Oh, that you knew what wrong</l>
+                     <l>You've done your Lovers Shade! that ſo, your Fau't</l>
+                     <l>Might have that juſt Repentance, that it ought:</l>
+                     <l>Then mark you well what I ſhall now relate,</l>
+                     <l>For it declares <hi>Traumatius</hi> preſent State:</l>
+                     <pb n="14" facs="tcp:98288:12"/>
+                     <l>Slain in the Field, Rage in our Swains ſo roſe,</l>
+                     <l>That to Revenge his Death upon their Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</l>
+                     <l>They left his Body where he fell; which ne'r</l>
+                     <l>Could from that Day be found, how ſought ſo e'r.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>For it was taken thence, as we ſurmize,</l>
+                     <l>By ſome one of our Rural Deities:</l>
+                     <l>But that the Shade ſhould not (as they all do,</l>
+                     <l>Who Funeral Rites do want) wander below;</l>
+                     <l>But be (as they who have them are) at Reſt.</l>
+                     <l>We thoſe feign'd Honours to his Shade addreſt,</l>
+                     <l>Which are Equivalent to the True.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>But this their Prophanation, done by you,</l>
+                     <l>Will ſhake his Reſt, and all their Power undo.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>Were ever Prieſts ſo blind in Spirit as You?</l>
+                     <l>His Body's here, but to thoſe Flowers turn'd,</l>
+                     <l>As that Boys was, whom <hi>Venus</hi> ſo much Mourn'd.</l>
+                     <l>The ſole Rites then, now requiſite to bring</l>
+                     <l>Reſt to his Shade, is a Blood-Offering:</l>
+                     <l>And with my Zeal, it does ſo much conſiſt,</l>
+                     <l>To offer't to him, I will be the Prieſt.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>Did not Grief check't, how I could ſmile, that ſhe,</l>
+                     <l>To cheat her ſelf, ſhould finelier forge than we.</l>
+                     <l>When at the Helme, deep Melancholly ſits,</l>
+                     <l>What ſtrange Conceits Man's Fancy then begets?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <p>But, ſpake ſhe not of offering Blood?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <p>She did.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>That Violence ſhall be by me withſtood:</l>
+                     <l>Let us, <hi>Iſmenius,</hi> watch her then with Care,</l>
+                     <l>As would a Shepheard, when a Wolf is near</l>
+                     <l>His tender Lamb. A Life ſo pretious,</l>
+                     <l>As not our own can be ſo dear to us,</l>
+                     <l>Muſt not, Oh muſt not, ſo away be made,</l>
+                     <l>In the falſe Worſhip of a Lover's Shade.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <stage>
+                     <hi>Enter</hi> Clinias.</stage>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>I have heard ſome ſay, a dying Swan will ſing!</l>
+                     <l>I doubt in that, they do but ſtretch a String:</l>
+                     <l>But be it nere ſo true, I'le not believe</l>
+                     <l>A Swan ſuch Muſick, as a Bull can give:</l>
+                     <pb n="15" facs="tcp:98288:12"/>
+                     <l>For when he bellows, Oh the thundering Note</l>
+                     <l>He then ſets forth! Juſt ſuch as now my Throat,</l>
+                     <l>In Honour of my Maſters Wedding-day;</l>
+                     <l>O <hi>Hymenaee! Hymen!</hi> Oh <hi>Hymenaee!</hi>
+                     </l>
+                  </sp>
+                  <stage>Exit Roaring.</stage>
+                  <stage>
+                     <hi>Enter</hi> Euplaſte.</stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Whil'ſt this Effeminate Diſguiſe</l>
+                     <l>Conceals th'unfortunate <hi>Philiſides,</hi>
+                     </l>
+                     <l>My Life is ſafe; but what I value higher,</l>
+                     <l>My Love's udone. 'Tis true, I've leave t'admire,</l>
+                     <l>And gaze on fair <hi>Astrea:</hi> But that's all.</l>
+                     <l>Her Friendſhip, that poor empty Bliſs, I gain:</l>
+                     <l>Friendſhip's thin Food t'a ſtarving Lover's Pain.</l>
+                     <l>And if I ſhould in my own ſhape appear,</l>
+                     <l>She'l hate me, as her Brother's Murderer.</l>
+                     <l>Was ever poor unhappy Swain ſo croſt:</l>
+                     <l>Conceal'd or not conceal'd, both wayes I'm loſt.</l>
+                     <l>Then Gentle <hi>Aris,</hi> unto thee I come;</l>
+                     <l>Thy Streams alone, can be my fitteſt Tomb:</l>
+                     <l>And take thou up no Fear thy Streams thereby,</l>
+                     <l>Shall any Curſe receive or Infamy.</l>
+                     <l>For Truth's grand parent Time, ſhall make it known,</l>
+                     <l>The ſad Fate of my Love a Legend grown.</l>
+                     <l>The Streams that drown'd me, my own Sorrows were;</l>
+                     <l>Thou kindly gav'ſt me but a Sepulcher.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Clinias.</stage>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <p>Oh <hi>Hymenae! Hymen! Hymenaee!</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>What meaneſt thou, Villain, by this Fatal Cry?</l>
+                     <l>Dye Schriech-owle with me too, if I muſt dye.</l>
+                     <stage>Offers at him with ber Javelin.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Hold, dear <hi>Diana,</hi> kill not a poor Wretch,</l>
+                     <l>'Cauſe he his Voyce did beyond <hi>Ela</hi> ſtretch:</l>
+                     <l>Make an <hi>Acteon</hi> of him rather. Let</l>
+                     <l>A Tire of Horns upon his Head be ſet:</l>
+                     <l>He'll but be made a Property thereby;</l>
+                     <l>Of much good uſe for the Solemnity,</l>
+                     <l>That's Dedicated unto this Day's Feaſt;</l>
+                     <l>So much a Wedding, and a Horned Beaſt,</l>
+                     <l>Do ſuit, you know.</l>
+                  </sp>
+                  <sp>
+                     <pb n="16" facs="tcp:98288:13"/>
+                     <speaker>Eup.</speaker>
+                     <l>Has any then to Day</l>
+                     <l>Been Marryed here?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Not yet: But, Truth to ſay,</l>
+                     <l>It has ſo happily been brought about,</l>
+                     <l>The Pigg's not nearer, when his Eyes drop out,</l>
+                     <l>T' his being Roaſted; than my Maſter's now,</l>
+                     <l>T' his being Marryed. Pray, unknit your Brow,</l>
+                     <l>And be a Gueſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>Your Maſter, What is he?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>A Youth ſo lovely, as when him you ſee,</l>
+                     <l>You'll yield <hi>Endimion,</hi> if compared with him,</l>
+                     <l>Not worth one Look of yours, for Face or Limb:</l>
+                     <l>His Name's <hi>Aſtatius;</hi> and he's here hard by;</l>
+                     <l>I'le hence, and bring him to you, inſtantly.</l>
+                  </sp>
+                  <stage>Goes out.</stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Not Married yet, he ſayes; and what's not done,</l>
+                     <l>It lyes in Fate to ſay, Shall ne're go on.</l>
+                     <l>The Cup has been even in the Hand, and yet</l>
+                     <l>The Wine within it, did the Lips <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e wet:</l>
+                     <l>It may befall this Swain ſo, with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>e;</l>
+                     <l>Nay, that it will, 'tis certainly imply'd</l>
+                     <l>In my Reprieve. Yet, take it right, and <hi>I</hi>
+                     </l>
+                     <l>Live but his Life, who ſtands condemn'd to dye.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div type="scene">
+                  <head>The SCENE, The Bride-Chamber.</head>
+                  <stage>
+                     <hi>Enter</hi> Aſtrea, Lipomene, Cloris Sylvia, <hi>&amp;c.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lip.</speaker>
+                     <p>'Tis wondrous ſtrange, the Bridegroom ſhould thus ſtay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>I would to <hi>Pan,</hi> that he would keep away,</l>
+                     <l>Till he diſpleaſed me with't: But what would you,</l>
+                     <l>If ſerv'd as <hi>I</hi> am, to your Bridgrooms do?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lip.</speaker>
+                     <l>I'd be reveng'd on him.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clor.</speaker>
+                     <p>And ſo would <hi>I.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sylv.</speaker>
+                     <p>What Maid but would, 'tis an Affront ſo high?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>
+                        <hi>I</hi> value not his ſetting me ſo light;</l>
+                     <l>But as he ſcandals all our whole Sex by't.</l>
+                     <l>
+                        <hi>I</hi> feel my Cholar riſe; and for your ſake,</l>
+                     <l>Teach me but how, and <hi>I</hi> Revenge will take.</l>
+                  </sp>
+                  <sp>
+                     <pb n="17" facs="tcp:98288:13"/>
+                     <speaker>Lip.</speaker>
+                     <l>Why, <hi>I</hi> would have you let him lye firſt Night</l>
+                     <l>Alone, and eat up both the Sheets for ſpight.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clor.</speaker>
+                     <l>That were a Pennance on her ſelf to lay.</l>
+                     <l>No; Bed with him: But when we're all away,</l>
+                     <l>And he attempts to do the Marriage-Rite,</l>
+                     <l>Whil'ſt Modeſty can choak it, ſcratch and bite.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylv.</speaker>
+                     <l>And for my part—</l>
+                     <l>But ſee who here are come</l>
+                     <l>To make the Bridegroom's ſtay leſs tyreſome!</l>
+                  </sp>
+                  <stage>Muſick plays, and a Dance; which ended, Exunt.</stage>
+                  <stage>
+                     <hi>Enter</hi> Euplaſte, Aſtatius <hi>making up to her.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>But ſee my happy Rival comes, and wears</l>
+                     <l>All Marks of Joy! How pleaſant he appears?</l>
+                     <l>And when a Sacrifice comes uncompell'd,</l>
+                     <l>It alway has a good Preſage been held.</l>
+                     <l>'Tis then but this—</l>
+                     <stage>Makes a ſhow of Stabbing.</stage>
+                     <l>—and this Dayes Fear has end:</l>
+                     <l>Then Love be to thy Votary, a Friend;</l>
+                     <l>And what I ought to do, do thou inſpire;</l>
+                     <l>Direct the Flame of thy own kindled Fire.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Clinias.</stage>
+                  <stage>Steps aſide.</stage>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <p>
+                        <hi>Diana?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <p>Yes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>How knoweſt thou it was ſhe?</l>
+                     <l>Didſt thou upon her Head, her Creſcent ſee,</l>
+                     <l>Bow in her Hand, and Quiver at her Back?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>As if the Gods, like Pedlars, bore their Packs</l>
+                     <l>Still on their Shoulders! No, the Place did prove</l>
+                     <l>'Twas ſhe; I found her in <hi>Diana's</hi> Grove.</l>
+                     <l>And give me leave to tell you, ſhe as owner,</l>
+                     <l>Swagger'd, and took moſt mightily upon her.</l>
+                     <l>But if you dare engage in the like Storm,</l>
+                     <l>If ſhe or not, you may your ſelf inform.</l>
+                     <stage>Aſtatius <hi>diſcovers</hi> Euplaſte.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <p>You may be gone, and leave me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>May I ſo?</l>
+                     <l>To what a Tyde makes he my Fears to flow?</l>
+                     <pb n="18" facs="tcp:98288:14"/>
+                     <l>He'll fall in Love with this ſame Goddeſs now;</l>
+                     <l>But then, O then, our very Bride Cake's Dough!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Complexion good, and truly that is all:</l>
+                     <l>Whence then are theſe Attracts, which now <hi>I</hi> feel?</l>
+                     <l>Why? whence but from that Tyrant o're my Will,</l>
+                     <l>Variety? There's ſomething in that Face,</l>
+                     <l>Which ſeems to me of a more taking Grace,</l>
+                     <l>Than e're in Women <hi>I</hi> before did ſee:</l>
+                     <l>A Touch o'th'Boy; which renders her to me</l>
+                     <l>As pritty as the young <hi>Narciſſus</hi> was.</l>
+                     <l>But, did ſhe her whole Sex as far ſurpaſs</l>
+                     <l>For Face and Shape, as does the Sun the Stars</l>
+                     <l>For Light and Heat, nor Face nor Shape of hers,</l>
+                     <l>Would to attract my Love, the Load-ſtone be,</l>
+                     <l>But only this, She's not yet won by me.</l>
+                     <l>To <hi>Eup.</hi> Thou, who of all thy Sex, the faireſt art,</l>
+                     <l>Be the moſt Courteous too. Oh, do not ſtart;</l>
+                     <l>It is no Satyre ſpeakes to thee: But one,</l>
+                     <l>Though the moſt Heart-burnt you e're ſhone upon;</l>
+                     <l>Does yet retain as pure and clear, the Flame,</l>
+                     <l>As are thoſe ſacred Eyes from whence it came.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>My Eyes ſo ſmite? <hi>I</hi> then may ſpare my hands, <hi>Aſide</hi>
+                     </l>
+                     <l>He's dead enough who at my Mercy ſtands.</l>
+                     <stage>Aſide</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Let not my Words for their Rough Dialect,</l>
+                     <l>Be held unworthy of that fair Reſpect,</l>
+                     <l>They might hope from a Brow more clear—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>
+                        <hi>I</hi> underſtand not, Shepheard, what you ſay:</l>
+                     <l>But know that Duty well, I'm bound to pay</l>
+                     <l>To Maiden-Modeſty: Then pray begon,</l>
+                     <l>And leave me as you found me, here alone.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Wrong not the Genius of this Place, fair Maid,</l>
+                     <l>Who in the Channels of our Veins has laid</l>
+                     <l>A blood ſo pure, that in <hi>Diana's</hi> Grove,</l>
+                     <l>Here we may Court with chaſt and harmleſs Love.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>And Swains may the ſame Day they Marry on,</l>
+                     <l>Court a new Face, and be reprov'd by none.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>
+                        <hi>I</hi> think they may: For 'tis enough that we,</l>
+                     <l>When we are Marryed, loſe that Liberty.</l>
+                     <pb n="19" facs="tcp:98288:14"/>
+                     <l>To make Men Slaves, what Tyrant e're begun,</l>
+                     <l>Before his Empire's abſolutely won.</l>
+                     <l>But why's this ſaid to me?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Becauſe, by ſome</l>
+                     <l>
+                        <hi>I</hi> have been told, this Day you Marry.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt</speaker>
+                     <p>Whom?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>
+                        <hi>Aſtrea?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>True, ſuch an intent <hi>I</hi> had,</l>
+                     <l>But to accompliſh it, I'm now forbid.</l>
+                     <l>They very Hopes of You, <hi>I</hi> do prefer,</l>
+                     <l>Before th' Aſſurance of poſſeſſing her.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>How can <hi>I</hi> ſtay to hear ſuch Perjury.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <p>When Love purſues you, 'tis in vain to flye.</p>
+                  </sp>
+                  <stage>Exit after her.</stage>
+                  <stage>
+                     <hi>Enter</hi> Sylvanus <hi>and</hi> Clinias.</stage>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <p>Wooing the Moon!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Yes, ſo <hi>I</hi> ſay, the Moon!</l>
+                     <l>
+                        <hi>Diana,</hi> and the Moon, they ſay, 's all one.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <p>What is't you ſay? Is he, or art thou, Mad?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>How can <hi>I</hi> loſe thoſe Wits <hi>I</hi> never had?</l>
+                     <l>But come along with me, and uſe your Art,</l>
+                     <l>To make this Lunatique with's Moon to part:</l>
+                     <l>Your Daughter elſe, for <hi>I</hi> ought <hi>I</hi> can perceive,</l>
+                     <l>May to her Wedding-Day, keep a long Eve.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>It is no idle Fear he puts me in:</l>
+                     <l>This, this the Willow-Wreaths, fore-told</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <stage>
+                     <hi>Enter</hi> Alveria.</stage>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>Thro that thick Cloud of Grief, that hindred me,</l>
+                     <l>Now the black Scene, in its full Face <hi>I</hi> ſee:</l>
+                     <l>
+                        <hi>I</hi> Dreamt, as <hi>I</hi> i'th' Vaullt did ſit and ſing</l>
+                     <l>By my <hi>Traumatius</hi> ſide, a Wolfe ruſht in;</l>
+                     <l>Where-at, affrighted, <hi>I</hi> ſhriek'd out, and cryed,</l>
+                     <l>Help me <hi>Traumatius!</hi> He to me replyed,</l>
+                     <l>(In a hoarſe Voyce, and hollow) Help thou me?</l>
+                     <l>And with that Knife, ſtick thou the Wolfe i'th' Breaſt:</l>
+                     <l>And <hi>I,</hi> at his Command, ſtrait ſtuck the Beaſt;</l>
+                     <l>Which, being done, he preſently me-thought,</l>
+                     <l>Into his Arms, his dear <hi>Alveria</hi> caught:</l>
+                     <pb n="20" facs="tcp:98288:15"/>
+                     <l>And we reduced into a State far more</l>
+                     <l>Happy and Joyful, than 'twas ere before.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Iſmenius, <hi>with a Garland of Flowers, and</hi> Evander.</stage>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>Sweeteſt <hi>Alveria,</hi> we are come to prove,</l>
+                     <l>Whether <hi>Traumatius,</hi> or your Self, you love.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>A Teſt of that, <hi>I</hi> think, there ſhall not need;</l>
+                     <l>
+                        <hi>I</hi> love 'em both, but thus diſtinguiſhed:</l>
+                     <l>Him, for himſelf; but for my ſelf, not Me;</l>
+                     <l>The only Cauſe <hi>I</hi> love 'em both, is, He.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evand.</speaker>
+                     <l>If it be ſo, your own Will you'll lay down,</l>
+                     <l>And take up his.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <p>They ever have been one.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>That ſhall be tryed: He la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e to us appear'd;</l>
+                     <l>We at the ſight fell down: But he ſtrait reard</l>
+                     <l>Us up agen, and bad us haſt to You;</l>
+                     <l>And charge you on your Love to him, if true,</l>
+                     <l>To lay your Wreath of Yew and Cypreſs by;</l>
+                     <l>And put on this.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>He did; that he might have thereby, a Signe,</l>
+                     <l>You will no longer make his Shade to pine:</l>
+                     <l>For even <hi>Elyſium,</hi> where he is, you turn</l>
+                     <l>Into an <hi>Acheron,</hi> 'whilſt thus you mourn.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>But, Did he tell you, by what Means <hi>I</hi> might</l>
+                     <l>Caſt off my Sorrow, and give him Delight?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <p>Yes, by obeying Nature's Will.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>Why, ſo</l>
+                     <l>
+                        <hi>I</hi> truly do, altho' not ſeen by you:</l>
+                     <l>
+                        <hi>I</hi> have my Treats, Diverſions, and what not,</l>
+                     <l>That may for Beauties ſake, or Loves, be got:</l>
+                     <l>For <hi>I</hi> enjoy all Pleaſure Maids e're ſought,</l>
+                     <l>When <hi>I,</hi> with my Dear ſhade, am in the Vau't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ye, ſuch illuſive Fancy, you no more</l>
+                     <l>Muſt give way to: But, from a Youth we'll bring,</l>
+                     <l>Receive of Love, a reall Offering.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>For that was Nature's end, when ſhe did place</l>
+                     <l>Such winning Beauties in that Charming Face:</l>
+                     <l>Delay not then, her <hi>Edict</hi> to fullfill;</l>
+                     <l>Gold if unuſed, as good i'th' Mine lay ſtill.</l>
+                  </sp>
+                  <sp>
+                     <pb n="21" facs="tcp:98288:15"/>
+                     <speaker>Alv.</speaker>
+                     <l>Oh, what a Poyſon do theſe Words convey</l>
+                     <l>Into the Air! 'Twould kil me in't to ſtay:</l>
+                     <l>No; to the Holy Fount I'le fly; and there</l>
+                     <l>Waſh out the Filth, my Ears have took in here,</l>
+                     <l>And ſoyl'd me with. Oh, that a Maid ſhould be</l>
+                     <l>Thought falſe to Love, and <hi>I</hi> (poor <hi>I</hi>) be ſhe!</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <p>You've prov'd her Conſtancy, and now leave off This Cruelty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>No: The Plot's not Ripe enough.</l>
+                     <l>They who (like me) would with rich Treaſures ſhine,</l>
+                     <l>Cannot enough explore the Sacred Mine.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <head>ACT the THIRD.</head>
+               <div type="scene">
+                  <stage>Aſtatius <hi>and</hi> Euplaſte, <hi>Courting; and</hi> Sylvanus <hi>and</hi> Clinias, <hi>over-hearing.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>SEE there, old Sir, the Vermine in the Trap!</l>
+                     <l>And now, be it your Fault, if they eſcape.</l>
+                     <l>I'le leave 'em to your Care, and get me gone.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>Aye <hi>Clinias,</hi> leave me, thou enough haſt done.</l>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Clinias.</stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>'Twould be indecent; urge it not, I pray:</l>
+                     <l>Make the firſt Day we meet, our Wedding-Day!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Why not? Deſerves it Blame, or rather Praiſe,</l>
+                     <l>To take our Happineſs the neareſt wayes?</l>
+                     <l>Who'll not our Providence and Speed commend,</l>
+                     <l>If in one Day, we our whole Harveſt end?</l>
+                     <l>Lets be Contracted then—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Contracted? Fye.</l>
+                     <l>Have you my Faith in any Jealouſie?</l>
+                     <l>Who doubts anothers, ſhews he doubts his own.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Of my own Faith, there can no doubt ariſe:</l>
+                     <l>For, How can that be looſe, your Beauty tyes?</l>
+                     <pb n="22" facs="tcp:98288:16"/>
+                     <l>And, e're <hi>I</hi> can make doubt of Faith in you,</l>
+                     <l>
+                        <hi>I</hi> muſt believe a Contradiction true;</l>
+                     <l>That what is Perfect, may be falſe: No, <hi>I</hi>
+                     </l>
+                     <l>Do crave it only in pure Policy:</l>
+                     <l>That ſhould Diſputes ariſe, <hi>Aſtrea</hi> may</l>
+                     <l>Know to what Saint, <hi>I</hi> my Devotion pay.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>That powerful Argument, too ſtrong <hi>I</hi> find.</p>
+                     <stage>gives him her Hand.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>What eaſie yielding Things are Woman-kind!</l>
+                     <l>I'le hence and fetch a Prieſt. 'Twill ſuit ſo well</l>
+                     <l>To ſeal our Loves, where firſt in Love we fell.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>And, ſhall <hi>I</hi> ſtay to be a Witneſs to</l>
+                     <l>What will my Work for ever quite undo?</l>
+                     <l>And, what would Patience her ſelf provoke</l>
+                     <l>to Wrath, even then when brought to the laſt ſtroke?</l>
+                     <l>No; <hi>I</hi> will hence, and hither thoſe diſpatch,</l>
+                     <l>Shall break this impious, irreligious Match.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Chance governs All. 'Tis the Event alone,</l>
+                     <l>'Twixt Fool and Wiſe, makes the Diſtinction.</l>
+                     <l>Thus far this borrow'd Habit has done well.</l>
+                     <l>Let Love and Fortune be but pleas'd to run</l>
+                     <l>As ſmoothly on, as they have now begun;</l>
+                     <l>And on thy Altar, Fortune, <hi>I</hi> will throw</l>
+                     <l>Handfulls of Incenſe; and, Love, kiſs thy Bow.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <stage>
+                     <hi>Enter</hi> Aſtatius <hi>and</hi> Evander.</stage>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>Her Beauty, ſure, <hi>Aſtreas</hi> not excells:</l>
+                     <l>What is it then, this Change in you compells?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>
+                        <hi>Aſtrea's</hi> Fair, <hi>I</hi> grant; But you ſhall find</l>
+                     <l>This Nymph ſo very witty, charming, kind.</l>
+                     <l>But t' ask the Reaſon of my Change,</l>
+                     <l>Is but an idle Curioſity:</l>
+                     <l>When many Diſhes are before us ſet,</l>
+                     <l>What guides the Hand to chooſe, but Appetite.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>But do not Act that Crime, will make you be</l>
+                     <l>The Scoff of the whole World: This, this is he</l>
+                     <l>Did on his Wedding-day, his Bride forſake,</l>
+                     <l>And t' a new Face, another Contract make!</l>
+                  </sp>
+                  <sp>
+                     <pb n="23" facs="tcp:98288:16"/>
+                     <speaker>Aſt.</speaker>
+                     <l>'Tis very well: Altho ſome may perchance,</l>
+                     <l>Whoſe Souls are over-ſpread with Ignorance.</l>
+                     <l>Dare you who are a Prieſt, to ſcoff at me</l>
+                     <l>For my Obedience, to the Gods decree.</l>
+                     <l>My VVill to Marry, was by theirs oppoſed.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>Suppoſe it was, how was't to you diſcloſed?</l>
+                     <l>For if from what you've done, we gather it,</l>
+                     <l>The horridſt Crimes what ever Men commit,</l>
+                     <l>May be ſaid done by Heav'ns Command.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>No, no:</l>
+                     <l>Their VVill was ſhown to me, as 'tis to you.</l>
+                     <l>VVhen you in Sacrifice, a Beaſt do ſlay;</l>
+                     <l>VVhich open'd, if you find the Heart's away,</l>
+                     <l>You inſtantly, 'tis the God's VVill declare;</l>
+                     <l>VVhat you reſolv'd to do, you ſhould forbear.</l>
+                     <l>And do they will, think ye, we ſhould go on</l>
+                     <l>In our ſet Marriage, when the Heart is gone?</l>
+                     <l>The want of which, no doubt, bodes as ill here,</l>
+                     <l>As in the Sacrifice which you prepare.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>You care not then, how you defame your Love.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Not I: VVhat Reaſon fixes, VVords ne're move.</l>
+                     <l>'Tis in the VVife alone, it lies to prove</l>
+                     <l>Whether the Man does well or ill in's Love.</l>
+                     <l>What matters it t'have Light or Conſtant been,</l>
+                     <l>When we are happy, or unhappy Men.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>What hope ſhall that poor Maid you Marry, take,</l>
+                     <l>That this Inconſtancy you'll then forſake?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Inconſtancy! Oh, do not call it ſo!</l>
+                     <l>One Conſtanter to Love you nere did know.</l>
+                     <l>Out of my Heart the Fire has never been,</l>
+                     <l>Whil'ſt <hi>I</hi> could cheriſh it, and keep it in.</l>
+                     <l>As <hi>Vestas</hi> ſacred Fire is ſtill the ſame,</l>
+                     <l>Tho with freſh Fuel her Prieſts maintain the Flame:</l>
+                     <l>So do's my Love abide the Same, tho <hi>I</hi>
+                     </l>
+                     <l>To keep it up, do to new Faces fly:</l>
+                     <l>For Beauty is Loves Food, which freſh muſt be;</l>
+                     <l>He's nice, and will be treated with Variety.</l>
+                  </sp>
+                  <sp>
+                     <pb n="24" facs="tcp:98288:17"/>
+                     <speaker>Evan.</speaker>
+                     <l>No; upon Love that's true, ſuch Power there waits,</l>
+                     <l>It to the ſame infinity, Creates</l>
+                     <l>Both Flame and Fewel for't: It makes the Feaſt</l>
+                     <l>As boundleſs, as the Appetite i'th'Gueſt.</l>
+                     <l>To him who truly Loves (as it is ſaid,</l>
+                     <l>
+                        <hi>Prometheus</hi> Liver to the Eagle did)</l>
+                     <l>Her Beauty grows he Loves, whil'ſt 'tis enjoy'd;</l>
+                     <l>So little's boundleſs Happineſs deſtroy'd.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Clinias.</stage>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Where have you been? At <hi>Ladons</hi> you were not.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>No Queſtion, but he has ſome Notice got</l>
+                     <l>
+                        <hi>I</hi> have been at <hi>Sylvanuſes:</hi> Then Wit</l>
+                     <l>Up, and invent, what may ſo colour it:</l>
+                     <stage>Aſide.</stage>
+                     <l>He can have no Miſtruſt, what <hi>I</hi> did there.</l>
+                     <stage>Aſide.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>Why ſpeak you not? want you a Tongue or Ear?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Neither. But <hi>I</hi> am loath to ſay— And yet</l>
+                     <l>
+                        <hi>I</hi> think you will not care, nor value it.</l>
+                     <l>But, Oh the Haſtineſs, that's in Old Men!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Ceaſe your Preambles, and be brief.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Why then,</l>
+                     <l>Be pleas'd to know, your making ſo ſmall haſt</l>
+                     <l>To wed his Daughter, old <hi>Sylvanu's</hi> caſt</l>
+                     <l>In ſuch a Rage, as deſperarely he ſwore</l>
+                     <l>He'd for her Husband, think of you no more:</l>
+                     <l>And yet, this very Day, ſhe ſhould have one:</l>
+                     <l>And to be him, who ſhould ſhe pitch upon,</l>
+                     <l>But that Lout <hi>Thyrſis?</hi>
+                     </l>
+                     <l>whom he ſoon drew in,</l>
+                     <l>To finiſh the ſame VVork you did begin.</l>
+                     <l>And, Oh how over-joy'd is that great Oafe!</l>
+                     <l>
+                        <hi>I</hi> met the Shepherds going to the Feaſt;</l>
+                     <l>And went along, to have my ſhare o'th' Jeſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Jeſt, do you call't! 'Tis ſuch a Jeſt, as <hi>I</hi>
+                     </l>
+                     <l>VVill quickly marr.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin,</speaker>
+                     <p>VVhat will betide my Lye?</p>
+                     <stage>Aſide.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>
+                        <hi>Thyrſis Aſtrea</hi> VVed! For Beauty known</l>
+                     <l>To be <hi>Arcadia's,</hi> nay, the whole VVorlds Paragon:</l>
+                     <pb n="25" facs="tcp:98288:17"/>
+                     <l>And, when with our <hi>Lycean</hi> Maids ſhe joynes</l>
+                     <l>In Company, <hi>Diana</hi>'s Self out-ſhines;</l>
+                     <l>When with her Nymphs ſhe Baths, or Hunts the Deer,</l>
+                     <l>Nay, when ſhe Shines at Full in her own Sphear.</l>
+                     <l>Oh, how that but one Puff has turn'd the Vane,</l>
+                     <l>And ſet it in its former Point again!</l>
+                     <l>Marryed to <hi>Thyrſis,</hi> ſhall <hi>Aſtrea</hi> be!</l>
+                     <l>Andromeda to th' Monſter of the Sea?</l>
+                     <l>Thy <hi>Perſeus</hi> comes, fair Maid: He has no need</l>
+                     <l>Of <hi>Pegaſus,</hi> who has Love's Wings for ſpeed.</l>
+                     <stage>Runs out.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>I'le after him—But 'tis for my behoof,</l>
+                     <l>As the Caſe now do's ſtand, to keep aloof.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>The Face of Faithleſs Love, if he would hit,</l>
+                     <l>A Painter need but have <hi>Aſtatius</hi> ſit.</l>
+                     <l>But to <hi>Aſtrea</hi> I'le ſo tell this Tale,</l>
+                     <l>As to Regain her, all his Arts ſhall faile.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <stage>Enter</stage>
+                  <l>Sylvanus <hi>and</hi> Aſtrea.</l>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>How? quit me for another?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>'Tis moſt true:</l>
+                     <l>I had th' Intelligence from my own View.</l>
+                     <l>And, gueſs you who it is, he quits you for;</l>
+                     <l>Even your own Feminine Idolater,</l>
+                     <l>The Stranger Shepherdeſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>On then, 'tis plainly ſeen,</l>
+                     <l>Tho kept ſo cloſe by her, whence it aroſe,</l>
+                     <l>That ſhe our Marriage did ſo much oppoſe.</l>
+                     <l>How eaſily we, unawares, may take</l>
+                     <l>Into our Boſoms, the Perfidious Snake.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Evander.</stage>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>Fair Shepherdeſs, the Height of Zeal I bear</l>
+                     <l>Your Happineſs, craves now your private Ear.</l>
+                     <stage>
+                        <hi>Exeunt</hi> Aſtrea <hi>and</hi> Evander.</stage>
+                     <l>
+                        <hi>A Noyſe of Shepherds Within.</hi>
+                     </l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Melibeus <hi>and</hi> Shepherds.</stage>
+                  <sp>
+                     <speaker>Mel.</speaker>
+                     <p>Away, away! He's mad! he's mad!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>Who's Mad?</l>
+                     <l>And what's the Abuſe you in my Houſe have had,</l>
+                     <pb n="26" facs="tcp:98288:18"/>
+                     <l>You fly thus out of it?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mel.</speaker>
+                     <l>Why? to be brief,</l>
+                     <l>
+                        <hi>Aſtatius</hi> is Mad! call'd <hi>Thyrſis</hi> Thief!</l>
+                     <l>And ſwore, to Hell he'd ſend his deſpicable Soul,</l>
+                     <l>Unleſs he ſtrait return'd the Nymph he ſtole.</l>
+                     <l>Nothing we ſaid, or did, could make him ceaſe</l>
+                     <l>His Violence, and reſtore his baniſht Perce.</l>
+                     <l>But ſee, he comes! he comes! Away, away!</l>
+                     <l>Here will be Work for Surgeons, if we ſtay!</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Aſtatius.</stage>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>What means this Out-rage, you do here commit?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>Why do you ask, Who are the Cauſe of it?</l>
+                     <l>Could one Hours ſtay of mine, by you be thought</l>
+                     <l>That heinous and unpardonable Fau't,</l>
+                     <l>As you could ſett all Bonds to me aſide,</l>
+                     <l>And give to <hi>Thyrſis</hi> my Contracted Bride?</l>
+                     <l>Repent your fowl Intent; and whil'ſt you may,</l>
+                     <l>Purge (by reſtoring her) your Crime away.</l>
+                     <l>Your Daughter is, before the Gods, my Wife—</l>
+                     <l>Reſtore her, or—</l>
+                     <stage>
+                        <hi>Enter</hi> Aſtrea, <hi>who ſeeing</hi> Aſtatius, <hi>offers to go back.</hi>
+                     </stage>
+                     <l>—Oh ſtay my deareſt Life!</l>
+                     <stage>Stops her.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>This it as dark as Oracle; but the way</l>
+                     <l>To make all Friends, is, not one Word to ſay:</l>
+                     <l>But to the Difference to put an and<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Be therefore all as 'twas. I'le try to bend</l>
+                     <l>
+                        <hi>Astreas</hi> Will; and ſure the Work's not fore,</l>
+                     <l>To break the Ice, that has been broke before.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>That I Renounced you, and another Maid</l>
+                     <l>Would have Contracted Was't not ſo you ſaid?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Astr.</speaker>
+                     <l>It was.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>And who could tell you ſo?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>Even one</l>
+                     <l>To whom 'twas your own Tongue that made it known;</l>
+                     <l>The Prieſt <hi>Evander.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Prieſt I and not forbear</l>
+                     <l>To blab out what's Entruſted to his Ear!</l>
+                     <pb n="27" facs="tcp:98288:18"/>
+                     <l>The Gods ſend Cankers to cat out that Tongue,</l>
+                     <l>Could in ſo high a ſort my Virtue wrong.</l>
+                     <l>But be't confeſt; and at your Choyce, if I</l>
+                     <l>Shall have your Pardon, or your Doom to dye.</l>
+                     <stage>Holds his Dagger at his Dagger at his Breaſs.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>Strike home, <hi>Aſtatius;</hi> and by that brave Deed,</l>
+                     <l>From all the Dirt that lyes on you, be freed.</l>
+                     <l>My Beauty make, for Cruelty, Renoun'd,</l>
+                     <l>And your Heroick Act, Fame's Trump ſhall ſound.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <p>And, ſhall it ſo?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <p>Make haſt; dye, dye, for ſhame!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>No, for this once I'le live, to ſave your Fame.</l>
+                     <l>'Tis true, I would have dyed; but was afraid</l>
+                     <l>
+                        <hi>Pyramus</hi> and <hi>Thiſbe,</hi> would in us be play'd.</l>
+                     <l>Tho my own ſelfe I little do regard;</l>
+                     <l>Yet <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> holds yours <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>'t, it muſt be ſpa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>Such Signe of Love, what Lover did <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>or my dear ſake, <hi>Aſtatius</hi> will live.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Come, throw me all theſe idle T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>way<g ref="char:punc">▪</g>
+                     </l>
+                     <l>And let's be ſerious. Tell me now, I pray,</l>
+                     <l>Which of you is your Father's: For the gave</l>
+                     <l>What's his to me; and, ſo much I will have.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>Fond Man, take better heed: There are, 'tis true,</l>
+                     <l>Baits that are ſure to take; but they endue</l>
+                     <l>What's taken by them, with a Taſt ſo bad,</l>
+                     <l>As 'twere far better it had ne're been had.</l>
+                     <l>And know for timely Truth, in getting me,</l>
+                     <l>What you uſe now, had the ſame Propetry.</l>
+                     <l>A Father's Will (which muſt not be with-ſtood)</l>
+                     <l>May make a Wife, but cannot make her Good.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Nor would I that it ſhou'd; or her own Love:</l>
+                     <l>'Twould ſuch a leſſening to my Glory prove.</l>
+                     <l>To cut in Glaſs, or form in Clay, exacts</l>
+                     <l>As little Fame: 'Tis with the Husband ſo;</l>
+                     <l>His Art and Fame, are equally as low,</l>
+                     <l>Who makes a Wife prove kind, whoſe Heart before</l>
+                     <l>Love ſoftend to the Wax, or Ductile Ore.</l>
+                     <pb n="28" facs="tcp:98288:19"/>
+                     <l>No; my <hi>Aſtrea,</hi> harden thine to Flint,</l>
+                     <l>Or get the Hardneſs of the Diamond in't;</l>
+                     <l>That by my moſt entire Obſervances,</l>
+                     <l>And conſtant Movings, to what-e're ſhall pleaſe</l>
+                     <l>Thy Will, or Fancy, I may ſmooth, Engrave,</l>
+                     <l>And Figure thee; untill at laſt, I have</l>
+                     <l>The nobleſt Statue, and moſt permanent</l>
+                     <l>Of Love, ere was; or Wiſh could ere invent.</l>
+                     <l>This is high Art, and 'twill get Praiſe as high:</l>
+                     <l>To that Mark then, ſhall my Ambition fly.</l>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Aſtrea.</stage>
+                  <stage>
+                     <hi>Enter</hi> Sylvanus.</stage>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>And how?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Far better than we could deviſe.</l>
+                     <l>Holds off! She'd be enjoy'd by a Surprize.</l>
+                     <l>Our Neighbour <hi>Spartans</hi> make their Marriages</l>
+                     <l>A kind of Rape. The Bluſtrings in't to pleaſe.</l>
+                     <l>A tame Encounter, argues little Flame;</l>
+                     <l>And willingneſs to Looſe, but dulls the Game.</l>
+                     <l>Th' Approach to common Fields, is eaſie made;</l>
+                     <l>But he that would th' <hi>Heſperides</hi> invade,</l>
+                     <l>He muſt have Fighting with a Dragon.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>Right.</l>
+                     <l>No <hi>Greeks,</hi> ſo bravely as the <hi>Spartans,</hi> Fight.</l>
+                     <l>And if that we <hi>Arzadians</hi> ſhould, like them,</l>
+                     <l>Vanquiſh our Brides, we might (perhaps) Redeem</l>
+                     <l>Our Nation's Honour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Spoke like a God! And let <hi>Arcadia</hi> ſee</l>
+                     <l>This great Change wrought, firſt, in your Family.</l>
+                     <l>I'le fetch a Prieſt; and, if ſuch Thrift you like,</l>
+                     <l>Amongſt our Selves, our Marriage up we'l ſtrike.</l>
+                     <l>For Feaſting, and the like Formalities,</l>
+                     <l>Do but retard the Reaping of our Joyes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>By <hi>Pan,</hi> and ſo they do: Thou'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t in the Right.</l>
+                     <l>Like a long March, they tire who are to Fight.</l>
+                     <l>Go then, and fetch a Prieſt.</l>
+                  </sp>
+                  <stage>Exeunt ſeverally.</stage>
+               </div>
+               <div type="scene">
+                  <pb n="29" facs="tcp:98288:19"/>
+                  <head>The SCENE, The Vault. Alveria <hi>weeping in it.</hi>
+                  </head>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>Go now my Flocks; and at your Will,</l>
+                     <l>Betake you to the Pool, or Hill<g ref="char:punc">▪</g>
+                     </l>
+                     <l>For ſince, Alas, I could not keep</l>
+                     <l>My Shepherd, Why ſhould I my Sheep?</l>
+                     <l>I'l weep and ſigh, and pine away;</l>
+                     <l>If Night won't come, make Night of Day.</l>
+                     <l>For, What have I to do with Light,</l>
+                     <l>When nought is left me worth my ſight?</l>
+                     <l>All Fair, all Good, ere counted on,</l>
+                     <l>Lay in my Love; and He is gon!</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Dametas, <hi>with a Basket of Fruit.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>Whil'ſt ſhe this Right to her dead Lover payes,</l>
+                     <l>She ſuch a Faſcination on me layes,</l>
+                     <l>I could here ſtand; and tho the Winds blew loud,</l>
+                     <l>And all the Skies were wrapt up in a Cloud,</l>
+                     <l>Be no more mov'd there-at, than if it were</l>
+                     <l>A <hi>Halcyon</hi>-Day, or one more calm and clear.</l>
+                     <l>But to my Errand—</l>
+                     <l>—Thou, who may'ſt Redeem</l>
+                     <l>Thy whole Sex from that ill-bred diſ-eſteem</l>
+                     <l>Lightneſs in ſome caſts on't: Take no Offence</l>
+                     <l>That I approach thy Gell. 'Tis not pretence</l>
+                     <l>Of Zeal, but Truth, that brings me here.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>Is't You.</l>
+                     <l>
+                        <hi>Dametas!</hi> Oh, come in, and take a view</l>
+                     <l>Of Sorrow's Harbour! For 'tis here it dwells;</l>
+                     <l>And all but what belongs to it, expells.</l>
+                     <l>Thou weep'ſt, and thou doſt ſhame me in't, that I</l>
+                     <l>Whoſe Loſs in him, does thine ſo much out-vy,</l>
+                     <l>Should'ſt do but as thou do'ſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>But faireſt Maid,</l>
+                     <l>For ſome ſhort ſpace, let Grief aſide be laid;</l>
+                     <pb n="30" facs="tcp:98288:20"/>
+                     <l>And taſt this Diſh of Fruit, I here preſent.</l>
+                     <l>Want you a Knife? Here's one is Humbly ſent.</l>
+                     <stage>produces her a Knife.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>O Heaven! 'tis the ſame Knife which I did ſeem</l>
+                     <l>To ſtick the Woolf with, in my rate told Dream.</l>
+                     <l>Beſtow't on me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>With all my Heart. But that—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>What you would ſay,</l>
+                     <l>I eaſily can gueſs. But think, I pray;</l>
+                     <l>And you'll no more <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſconſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e my Intent.</l>
+                     <l>Would I ſo many Deaths have underwent,</l>
+                     <l>As I have done, ſince my <hi>Traumatius</hi> Fall,</l>
+                     <l>When one had ſerv'd t'have freed me from 'em All.</l>
+                     <l>
+                        <hi>Alveria's</hi> Vertue dares not Act that Crime:</l>
+                     <l>I dare not touch that Life that's de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </l>
+                     <l>No, tho unhappy, She had whiter Hands.</l>
+                     <l>The Conſecrated Oak ſecurely ſtands.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <l>Then 'tis your own: That was my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>And I much joy, that from that Pear I'm freed.</l>
+                     <l>And now my Care ſo happily is done,</l>
+                     <l>I give you back to your Devotion.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>The Steam of Sacrificed Blood (tis ſed)</l>
+                     <l>Is that alone, where-with all Spirits are fed.</l>
+                     <l>Oh, be thou then to ſerve <hi>Traumatius</hi> in't,</l>
+                     <l>For my deaf Spirits Food, the Inſtrument.</l>
+                     <l>The Prieſt, the Altar, and the Knife's prepar'd;</l>
+                     <l>Oh, do no longer then our Zeal retard</l>
+                     <l>Thou know'ſt the only requiſite we need;</l>
+                     <l>Then bring, bleſt Shade, the Sacrifice, and feed.</l>
+                  </sp>
+                  <stage>Exit</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <pb n="31" facs="tcp:98288:20"/>
+               <head>ACT the FOURTH.</head>
+               <div type="scene">
+                  <stage>
+                     <hi>Enter</hi> Euplaſte.</stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>IN all Poſt-haſt, <hi>Astatius</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lew away</l>
+                     <l>To fetch a Prieſt; and yet how long can ſtay,</l>
+                     <l>Bofore he brings him. Swift as from the Bow</l>
+                     <l>The Arrow went; and not the Snayle ſo ſlow</l>
+                     <l>In coming back.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Clinias, <hi>Singing.</hi>
+                  </stage>
+                  <sp>
+                     <l>
+                        <hi>The Gooſe, and the Capon,</hi>
+                     </l>
+                     <l>
+                        <hi>The Calves Head and Bacon,</hi>
+                     </l>
+                     <l>
+                        <hi>Are ready, are ready,</hi>
+                     </l>
+                     <l>
+                        <hi>To be ſet on the Table.</hi>
+                     </l>
+                     <l>
+                        <hi>But if this good Victual</hi>
+                     </l>
+                     <l>
+                        <hi>Can draw but a little,</hi>
+                     </l>
+                     <l>
+                        <hi>There's ſomething, there's ſomething,</hi>
+                     </l>
+                     <l>
+                        <hi>Draws more than a Cable.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Where is your Maſter?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Ha, <hi>Diana!</hi>
+                     </l>
+                     <l>I would ſhe'd keep her once in her own Sphear:</l>
+                     <l>It bodes us no good Luck to find her here.</l>
+                     <stage>Aſide.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Why ſpeak you not? Study you for a Lye?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Oh no; ſweet Goddeſs! True as Steel am I:</l>
+                     <l>But ſome-what ſlow of Speech before my Betters.</l>
+                     <l>Wild Colts, you know, are to be put in Fetters:</l>
+                     <l>And ſuch my Maſter is; and herefore, 's gon</l>
+                     <l>To fetch a Prieſt, to put his Fetters on.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>And why not brings one then.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Whither?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Hither.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Hither! —Ha, ha! —We are like to have ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ange<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <pb n="32" facs="tcp:98288:21"/>
+                     <l>When as the Moon her ſelf, is Lunatique.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>What Laugh you at?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Pray be not Cholerique.</l>
+                     <l>This is your Grove, or I miſtake it.</l>
+                     <l>But ſure <hi>Sylvanus</hi> Houſe you cannot make it;</l>
+                     <l>Nor you <hi>Aſtrea.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Ha! Theſe Words do ſound</l>
+                     <l>Too fatally. But I will know the Ground.</l>
+                     <l>What do you mean, Friend, by your ſaying ſo?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>No more than time, indeed, that you ſhould know<g ref="char:punc">▪</g>
+                     </l>
+                     <l>I, I, that you may ſpoyle good Sport agen.</l>
+                     <l>Do you think me ſuch Fool, to tell you then?</l>
+                     <l>
+                        <hi>Slylvanus</hi> and my Maſter's Reconcil'd;</l>
+                     <l>And now he'l give him his dear. Darling Child.</l>
+                     <l>
+                        <hi>Aſtatius</hi> is but gone to fetch a Prieſt:</l>
+                     <l>This I could tell, and more too, if I liſt.</l>
+                     <l>But out of me, pray get it if you can.</l>
+                     <l>There's a Bone for her to pick.— Well, for a Man;</l>
+                     <l>If that my Maſter ſhould ſearch <hi>Greece</hi> all over,</l>
+                     <l>The like for Secrecy, he'll nere diſcover.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Whether the Fool or Knave ſpake what he ſaid,</l>
+                     <l>Or he as either, may be credited,</l>
+                     <l>Are Problems; not to be diſputed on,</l>
+                     <l>When in the Words I hear, I am undone.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <p>Alveria <hi>Runs over the Stage, and</hi> Aſtatius <hi>after her, as having loſt her.</hi>
+                  </p>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Oh! I have loſt, quite loſt, the ſight of her.</l>
+                     <l>Curſe on my Legs, for being no ſpeedier!</l>
+                     <l>Ho! <hi>Clinias!</hi>
+                     </l>
+                     <stage>
+                        <hi>Enter</hi> Clinias.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>I am here, Maſter, I am here.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Run, <hi>Clinias;</hi> run!</l>
+                     <l>VVhat? ſtand'ſt thou ſtill, when thou art bid begon?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>But whither<g ref="char:punc">▪</g> and for what?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>To every Place,</l>
+                     <l>Till thou haſt found her out, for my Embrace.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>VVho? <hi>Aſtrea?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>No.</l>
+                  </sp>
+                  <sp>
+                     <pb n="33" facs="tcp:98288:21"/>
+                     <speaker>Clin.</speaker>
+                     <l>
+                        <hi>Diana?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Neither.</l>
+                     <l>Their Beauties ſtrokes (Alas!) ſcarce broke the Skin:</l>
+                     <l>But I juſt now have ſuch a Beauty ſeen,</l>
+                     <l>As thro and thro, has pierced my very Heart.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Where does he come, but he does meet this Dart?</l>
+                     <l>
+                        <hi>Pan</hi> bleſs us! Theſe are dang'rous Wounds indeed!—</l>
+                     <l>What thro and thro? where is it that you bleed?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>My Heart.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>It is a kind of an inviſible Gore —.</l>
+                     <l>If ſhe wounds ſo, I'd nere come near her more.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Not near her more! How idly thou doſt prate?</l>
+                     <l>Thou too ill know'ſt of Beauties wounds, the State.</l>
+                     <l>Her ſelf's the Balm for th'Wounds her Beauty made;</l>
+                     <l>Nor can their Rage, but by that Balm, be laid.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>I'th' Name of <hi>Pan,</hi> Who is ſhe then, I pray?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>Who but th' incomparable <hi>Alveria?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Good <hi>Cupid,</hi> in his way ſome other ſend:</l>
+                     <l>Of theſe Incomparables, there's no end.</l>
+                     <l>For this is not the firſt, by a whole ſcore:</l>
+                     <l>A Score, ſaid I? I, Twenty times told o're!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>For ſince her Love, <hi>Traumatius,</hi> dyed, Oh how</l>
+                     <l>Her Beauty is ſhot forth, and ſtrikes me now!</l>
+                     <l>Beauty and Sadneſs, in ſuch pretty Strife,</l>
+                     <l>Like Light and Shadow, have ſo drawn to th' Life,</l>
+                     <l>The taking Face in hers.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>You did not then</l>
+                     <l>Your Errand to the Prieſts?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>Whilſt ſhe was ſeen</l>
+                     <l>With them, what Errand had I, or could have,</l>
+                     <l>But to Eye her, and take the Wounds ſhe gave?</l>
+                     <l>And whilſt I did, What angry Looks the Prieſt</l>
+                     <l>
+                        <hi>Evander</hi> caſt?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>But did your Love to nothing elſe provoke</l>
+                     <l>Than Looks and Thoughts? Did you not ſpeak to her?</l>
+                     <l>Mute Gazings, tho much Love, ſmall Wit infer.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>O there you touch me in the tend'reſt Part:</l>
+                     <l>'Twas that, with Bliſs, aſunder tore my Heart.</l>
+                     <pb n="34" facs="tcp:98288:22"/>
+                     <l>Such Freedom had I on her Face to gaze,</l>
+                     <l>And ſweetly looſe my ſelf in that dear maze.</l>
+                     <l>But I out of my Lips could ſcarcely get</l>
+                     <l>Faireſt <hi>Alveria;</hi> but as if ſhe had met</l>
+                     <l>A <hi>Theſeus</hi> there, and ſhould be Raviſht too;</l>
+                     <l>Like <hi>Daphne</hi> from <hi>Apollo,</hi> ſtrait ſhe flew.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>But whither flew?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>As if that known to me,</l>
+                     <l>I'd ſtand thus idly prating here with thee.</l>
+                     <l>Perhaps, ſhe has hid herſelf within the Vau't:</l>
+                     <l>Run thou, and ſee what Truth is in that Thought;</l>
+                     <l>And bring me VVord, you'll find me at her Mothers.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>I would this Love were hang'd, it makes ſuch Po<g ref="char:EOLhyphen"/>thers.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>For 'tis ſo true, as 'tis a Maxime grown,</l>
+                     <l>The Mother made, the Daughter's half our own:</l>
+                     <l>Mothers are ſuch Dequoys.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <stage>
+                     <hi>Enter</hi> Lilla <hi>and</hi> Euplaſte.</stage>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <l>Take Heart; for when I put you in that Dreſs,</l>
+                     <l>I did not mean your Spirit ſhould grow leſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>I grant, much Favour ſhe on me confer'd;</l>
+                     <l>But 'twas not as I am, but as appear'd.</l>
+                     <l>For I but once <hi>Philiſides</hi> did name,</l>
+                     <l>And with ſuch Terrour to her Ears it came,</l>
+                     <l>As ſhe did tremble more than ere you have</l>
+                     <l>Beheld the Sun's Face on the dancing Wave.</l>
+                     <l>And then ſhe wept; which made me ſtrait give o're,</l>
+                     <l>What ere I had to ſay of him before.</l>
+                     <l>For, who could ſuffer ſuch a Rain to laſt,</l>
+                     <l>Which from my Heart, drew drops of Blood as faſt.</l>
+                     <stage>
+                        <hi>Enter</hi> Aſtatius.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Lill.</speaker>
+                     <l>Hold, there he is—I'le not be ſeen—Do you</l>
+                     <l>What Love and Intreſt ſhall invite you to.</l>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Lilla.</stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Oh you have kept your Promiſe well—You are—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>I'le word it for you, you your Breath may ſpare.</l>
+                     <l>I am</l>
+                     <pb n="35" facs="tcp:98288:22"/>
+                     <l>Fickle, Diſloyal; far more falſe than be</l>
+                     <l>The Smiles of old grown Tyrants, or the Sea,</l>
+                     <l>When with its ſmootheſt Brow it Courts to Death.</l>
+                     <l>My Oaths and Vows of Love, with the ſame breath</l>
+                     <l>Brought forth, and blown away. The time ſo one,</l>
+                     <l>And indiſtinct, in which they both are done.</l>
+                     <l>Nature did make me ſuch; blame Her, not Me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Yet there's a Shepherdeſs, I hear,</l>
+                     <l>Has by her Beauty got ſo great a Pow'r,</l>
+                     <l>That ore your Nature, ſhe's a Conquerour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>And, who is ſe?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>
+                        <hi>Aſtrea.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Yes; I yeild,</l>
+                     <l>As yours did once, her Beauty took the Field;</l>
+                     <l>And skirmiſht with it, for ſome little while:</l>
+                     <l>But nere of Conqueror could bear the Stile:</l>
+                     <l>That was reſerved, as far more Great, for hers</l>
+                     <l>To whoſe your Beauties were but Harbingers.</l>
+                     <l>
+                        <hi>Aſtreas</hi> Charms have Pow'r to fix my Soul!</l>
+                     <l>That any one ſhould think me ſuch a Fool!</l>
+                     <l>Her Beauty would I knew; but where it lyes?</l>
+                     <l>'Tis true,</l>
+                     <l>She has ſomething pretty well about her Eyes.</l>
+                     <l>Her Shape too it may paſs: Her Ayre appears</l>
+                     <l>Not very dull: And then, that Face of her's</l>
+                     <l>Has here and there, a tollerable Feature.</l>
+                     <l>But for a Wife, Heav'n bleſs the poor fond Creature!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>Confuſion blaſt that Tongue.</p>
+                     <stage>Aſide.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>I muſt confeſs,</l>
+                     <l>I Courted her, and I could do no leſs.</l>
+                     <l>The Reverend Fool, her Father, drew me in.</l>
+                     <l>And in my Temper, I have alwayes been</l>
+                     <l>So Complayſant, that what ere Face I've ſeen,</l>
+                     <l>I ſtill have had ſome wanton things to ſay.</l>
+                     <l>I threw an Amorous Look or two away:</l>
+                     <l>We Courtiers muſt be ſhowing of our Parts.</l>
+                     <l>But to believe, her Eyes can Conquer Hearts—</l>
+                     <l>There's no ſuch thing in Nature —But—</l>
+                     <l>Is <hi>Lilla</hi> pray at Home.</l>
+                  </sp>
+                  <sp>
+                     <pb n="36" facs="tcp:98288:23"/>
+                     <speaker>Eup.</speaker>
+                     <l>Not now at Home;</l>
+                     <l>But that one ſo ingenious may not come</l>
+                     <l>In vain to ſpeak with her; if you but pleaſe</l>
+                     <l>To walk a while under theſe Sycamore Trees,</l>
+                     <l>I'le ſeek her out; and be the Meſſenger</l>
+                     <l>To bring her to you, or fetch you to her.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <p>You much oblige me, fair One.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>What Breaſt could more aſſwage? what more in<g ref="char:EOLhyphen"/>flame,</l>
+                     <l>Than that which from his Mouth in one blaſt came?</l>
+                     <l>
+                        <hi>Aſtrea</hi> freed! What Note could ſweeter ſound?</l>
+                     <l>Her Beauty ſlighted! What could more confound?</l>
+                     <l>Such Language would a Gaulleſs-Saint inrage,</l>
+                     <l>And fire the very Veins of freezing-Age.</l>
+                     <l>If this Affront be not Revenged by Me,</l>
+                     <l>I ſhow that I deſerve her leſs than He:</l>
+                     <l>I'le puniſh then this Blaſphemy, or dye.</l>
+                     <l>And if wrong'd Saint, to that Extream I fly,</l>
+                     <l>That my Devotion my Deſtruction draws,</l>
+                     <l>I bravely periſh in a noble Cauſe.</l>
+                  </sp>
+                  <stage>Exit. Aſide.</stage>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>Had <hi>I Aſtrea</hi> never Woo'd nor VVon,</l>
+                     <l>How fiercely on her could my Love ſtill run?</l>
+                     <l>But the right Spaniel does delight to get</l>
+                     <l>The Wild-Duck for Games ſake, and not to Eat:</l>
+                     <l>And, 'tis ſo with my Love; It likes to chace,</l>
+                     <l>But not to board it ſelf on any Face.</l>
+                     <l>Let the Wind blow from what ere Point it will,</l>
+                     <l>It ſets a Going, and ſtill Turns the Mill.</l>
+                     <l>So Beauty does move me, when ere I ſee't;</l>
+                     <l>Nay, oftentimes, where I no Beauty meet,</l>
+                     <l>Humour's ſufficient to take me. The ſad,</l>
+                     <l>Blith, and compos'd, my Love alike have had.</l>
+                     <l>Thus like a Shaddow on a Dyall's-Plate,</l>
+                     <l>My Love is alwayes in a moving State.</l>
+                     <l>Oh, how ſhe melts, her Beauty, as the Sun</l>
+                     <l>Do's melt the Snow, who do's from Coolneſs run</l>
+                     <l>To ſuch a Warmth, as to give Love: For then,</l>
+                     <l>Like Evening-Miſts, all her Defects begin</l>
+                     <pb n="37" facs="tcp:98288:23"/>
+                     <l>To ſhew themſelves; Which we ſo hot before</l>
+                     <l>I'th' Chace, had not the leizure to explore.</l>
+                     <l>Whil'ſt in the Fields, they are, Dayzies look well;</l>
+                     <l>But in our Hands, How noyſomly they ſwell?</l>
+                     <stage>
+                        <hi>Enter</hi> Melibeus <hi>and Shepherds, and Shep<g ref="char:EOLhyphen"/>herdeſſes.</hi>
+                     </stage>
+                     <l>What's here? by Heav'n, the very Animals,</l>
+                     <l>That are to Celebrate my Nuptials.</l>
+                     <l>Now ſhall we have ſome Song, or Dance, at leaſt,</l>
+                     <l>For th' Entertainment to this Bridal-Feaſt.</l>
+                     <l>Marry <hi>Aſtrea!</hi> Alas! Poor ſilly Sots!</l>
+                     <l>They little think, that <hi>I</hi> have wiſer Plots.</l>
+                     <l>To interrupt their Paſtime, would be rude:</l>
+                     <l>No; I'le retire, and hear their Interlude.</l>
+                     <stage>Abſconds.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Mel.</speaker>
+                     <l>Well, ſince the Marriage is ſo nigh,</l>
+                     <l>Upon this Plain our Skills we'll try.</l>
+                     <l>T' our Reputations we muſt have regard;</l>
+                     <l>And, 'twere ill manner'd, to come unprepar'd.</l>
+                  </sp>
+                  <stage>A Symphony of Pipes, and a Dance; which ended, Exeunt Shepherds and Shepherdeſſes; and Re-En<g ref="char:EOLhyphen"/>ter <hi>Aſtatius.</hi>
+                  </stage>
+               </div>
+               <div type="scene">
+                  <stage>
+                     <hi>Enter to him,</hi> Euplaſte <hi>in her own Shape, with two Swords.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Your Patience <hi>Lilla</hi> for a while do's crave:</l>
+                     <l>And tell ſhe comes, ſhe for you Paſtime gave</l>
+                     <l>Theſe Swords into my Hands, for you to view.</l>
+                     <l>Pray look, and tell me, which ſeems beſt to you?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>
+                        <hi>Philiſides!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>The ſame.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>I'm all Surprize!</l>
+                     <l>Is my Fair <hi>Amazon</hi> tranſform'd to this!</l>
+                     <l>This Object do's ſo much Amazement ſtrike!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>Lay by your Wonder; ſay which Sword you like?</p>
+                  </sp>
+                  <sp>
+                     <pb n="38" facs="tcp:98288:24"/>
+                     <speaker>Aſt.</speaker>
+                     <p>If there be odds, this has it.</p>
+                     <stage>Takes one.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>'Tis but fit</l>
+                     <l>It ſhould: Such Odds upon the Cauſe do's ſit,</l>
+                     <l>I'm to maintain. Betake you to your Guard.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <p>How Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Is Death a thing, that will digeſt ſo hard!</l>
+                     <l>You will not Fight?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <p>Not with <hi>Philifides.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Think on your Inſolence, your Blaſphemies,</l>
+                     <l>Againſt the Fair <hi>Aſtrea.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Wondrous Fau'ts!</l>
+                     <l>Where lyes the Blaſphemy to ſpeak my Thoughts?</l>
+                     <l>Becauſe</l>
+                     <l>You think her Heav'nly Fair, muſt I do ſo?</l>
+                     <l>By Heav'ns, my plain-frank Soul nere ſtoops ſo low,</l>
+                     <l>To flatter what <hi>I</hi> cannot like,</l>
+                     <l>To Idolize a Face, pay't Offerings,</l>
+                     <l>And make Divinities of poor Mortal Things.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Oh Heav'ns! he dares maintain his Inſolence</l>
+                     <l>Againſt that ſacred charming Excellence.</l>
+                     <l>An Excellence ſo pure, a Form ſo fair,</l>
+                     <l>That <hi>Jove</hi> might quit his Throne, t'inhabit there.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>And theſe high Raptures, ſo Divinely ſed,</l>
+                     <l>(This Courtly ſound, blind Loves Romantique Style)</l>
+                     <l>Is all on a poor piece of white and red,</l>
+                     <l>No more than what one Summer's-Sun can ſpoyle.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>I'le hear no more; defend your Life.</l>
+                     <stage>Aſtatius <hi>only Retires.</hi>
+                     </stage>
+                     <l>Not one offenſive Stroke? For once, I'le try</l>
+                     <l>The Art <hi>I</hi> have, to mount your Rage as high.</l>
+                     <l>Do you Retreat, you mighty Man of Love?</l>
+                     <l>Your baſe unmanly Fear to Dye, remove.</l>
+                     <l>But, to recall your frighten'd Soul again;</l>
+                     <l>Call to your mind, that once there was a Swain,</l>
+                     <l>That, met you Face to Face, and from your Arm</l>
+                     <l>This Garter ſnatcht.</l>
+                  </sp>
+                  <sp>
+                     <pb n="39" facs="tcp:98288:24"/>
+                     <speaker>Aſt.</speaker>
+                     <p>How like a Fool do'ſt thou thy ſelf betray?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <p>Then take the Forfeit on't this manly Way.</p>
+                     <stage>
+                        <hi>They Fight, and</hi> Aſtatius <hi>falls.</hi>
+                     </stage>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Clinias.</stage>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <p>Oh, he has kill'd my Maſter! Help, help</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Shepherds.</stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>A Curſe on his wide Throat.</l>
+                  </sp>
+                  <stage>Exit Running.</stage>
+                  <sp>
+                     <speaker>1. <hi>Sheph.</hi>
+                     </speaker>
+                     <p>
+                        <hi>Aſtatius</hi> Slain!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Make haſt, like faithful Dogs go hunt about,</l>
+                     <l>And you will quickly find the Murd'rer out.</l>
+                     <l>He ran that way.</l>
+                     <stage>Exeunt Shepherds perſuing.</stage>
+                     <l>
+                        <hi>Eſculapius</hi> Temple, to this Place is near;</l>
+                     <l>And to his Prieſts, <hi>I</hi> will my Maſter bear:</l>
+                     <l>They're better skill'd to cure his Wounds, than <hi>I.</hi>
+                     </l>
+                     <l>Come dear Sir, riſe, and from Death's Horrours fly!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>Fare-well fair Nymphs, &amp; you dear Pleaſant Groves,</l>
+                     <l>The once kind Scene of all my happy Loves.</l>
+                     <l>A long Fare-well! What has this Minute done;</l>
+                     <l>Who lived for the whole Sex, now dyes for one.</l>
+                  </sp>
+                  <stage>
+                     <hi>Exit, ſupported by</hi> Clinias.</stage>
+                  <stage>Eſculapius <hi>Temple diſcovered; Prieſts attending.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>1. <hi>Priest.</hi>
+                     </speaker>
+                     <l>Thou, who for Good to Humane Race,</l>
+                     <l>To <hi>Sol</hi> thy Maſter, giv'ſt not Place.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2d. <hi>Prieſt.</hi>
+                     </speaker>
+                     <l>For, tho the Aire be nere ſo bright,</l>
+                     <l>Made by the Beams of his great Light,</l>
+                     <l>Unleſs 'tis Healthful made by Thee;</l>
+                     <l>But haſtens on Mortality.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Prieſt.</hi>
+                     </speaker>
+                     <l>Oh, then receive their joyful Sound,</l>
+                     <l>Who with thy Bleſſing, Health, abound.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Clinias, <hi>leading</hi> Aſtatius.</stage>
+                  <sp>
+                     <speaker>Priest.</speaker>
+                     <l>How dare you with unhallow'd Feet,</l>
+                     <l>Prophane this Sacred Ground? Retreat.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Nay Reverend Sir, be not ſo much unkind;</l>
+                     <l>Let us your Favour, not your Anger, find;</l>
+                     <l>This wounded Swain does your kind Help implore;</l>
+                     <l>Cure him, and we will trouble you no more.</l>
+                  </sp>
+                  <stage>Temple ſhuts.</stage>
+                  <pb n="40" facs="tcp:98288:25"/>
+                  <sp>
+                     <speaker>Within.</speaker>
+                     <l>Follow, follow, follow!</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter.</hi> Euplaſte.</stage>
+                  <sp>
+                     <speaker>Eup.</speaker>
+                     <l>Hell ſtop your Throats. What Cryes theſe Blood-Hounds make?</l>
+                     <l>To Fight 'em all, Alas! <hi>I</hi> am too weak.</l>
+                     <l>And their Purſuit's too hot, t'eſcape by Flight.</l>
+                     <l>What ſhall <hi>I</hi> do? I have but this one Slight.</l>
+                     <l>I'le to <hi>Traumatius</hi> Vault, and hide me there;</l>
+                     <l>So great a Reverence to that Place they bear,</l>
+                     <l>As ſure 'twill prove a Place for my Defence,</l>
+                     <l>A Sanctuary gainſt their Violence.</l>
+                     <l>This Buſh ſhall hide my Sword—</l>
+                     <l>—Who'll Quarter cry,</l>
+                     <stage>Throws his Sword away.</stage>
+                     <l>Ought all offenſive Weapons to lay by.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT the FIFTH.</head>
+               <div type="scene">
+                  <head>The SCENE, The Vault. Alveria, Iſmenius, <hi>and</hi> Evander.</head>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>TO thee thou pureſt Shade</l>
+                     <l>Of all Love, ere t' <hi>Elyſium</hi> ſent,</l>
+                     <l>The Tribute of my Sighs is paid.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>True Lovers dye not; but Tranſlate</l>
+                     <l>To a Divine, from Humane, State.</l>
+                     <l>Then be leſs griev'd at your <hi>Traumatius</hi> Fate.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Philiſides, <hi>Running.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>Here I am ſafe. To your Protection take</l>
+                     <l>A Swain, whom all the World beſide forſake.</l>
+                     <l>In this kind Sanctuary let me lye,</l>
+                     <l>And be ſecure from Death and Infamy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <p>&amp; <hi>Alv. Philiſides!</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>The Wolfe is come: And now my Dear, thy Flow'rs</l>
+                     <l>I'le water with the beſt of Show'rs,</l>
+                     <pb n="41" facs="tcp:98288:25"/>
+                     <l>Warm Drops of Blood. To th'God of Wine,</l>
+                     <l>Cauſe greateſt foe unto the Vine,</l>
+                     <l>The Goat is offer'd up: And Thee</l>
+                     <l>Thus to my Love I offer —</l>
+                     <stage>
+                        <hi>Stabs</hi> Philiſides.</stage>
+                     <l>— Now 'tis done.</l>
+                     <l>Then finiſh Fate what I've begun.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>Oh, that a Hand ſo white ſhould do</l>
+                     <l>A Deed ſo black!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>Oh, do not You</l>
+                     <l>Who are a Prieſt, your Mouth defile,</l>
+                     <l>By giving it ſo falſe a Style!</l>
+                     <l>What Victim to <hi>Traumatius</hi> Shade</l>
+                     <l>Of ſweeter Odour can be made?</l>
+                     <l>Or more the Cry of his loud Blood appeaſe,</l>
+                     <l>Than this his Murderer, <hi>Philiſides?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>Of how much Miſchief has my long Diſguiſe</l>
+                     <l>Been the unhappy Cauſe? In this Swain's Death,</l>
+                     <l>I've bought the Proof of my <hi>Alveria</hi>'s Faith,</l>
+                     <l>And Conſtancy, at much too dear a Price.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>
+                        <hi>Philiſides!</hi> Yes, He I am!</l>
+                     <l>For under none but my true Name,</l>
+                     <l>I'de dye <hi>Aſtreas</hi> Lover—But that Breath</l>
+                     <l>That name, that very Thought, has vanquiſh'd Death;</l>
+                     <l>Such ſoveraign Balſome in it lyes,</l>
+                     <l>That know to a new Life I riſe.</l>
+                     <l>Miſtaken Fair! You've given the Wound in vain.</l>
+                     <l>No Hand can reach that Heart where that bright Form do's Raign.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>Oh my weak Hand! And thou dull Inſtrument,</l>
+                     <l>That thus the Stroke falls ſhort of the Intent!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>I'm glad it is no Mortal Wound. Apply</l>
+                     <l>You to your Surgery, whil'ſt I</l>
+                     <l>With ſpeed to good <hi>Sylvanus</hi> ſend,</l>
+                     <l>That he this Accident may know.</l>
+                     <stage>
+                        <hi>Exit</hi> Evander <hi>and</hi> Philiſides.</stage>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Aſtatius <hi>and</hi> Clinias.</stage>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>Your Wounds thus ſearcht, dreſt up, and bound, Your Cure</l>
+                     <l>Will need no further Care, it is ſo ſure.</l>
+                     <pb n="42" facs="tcp:98288:26"/>
+                     <l>Depart—Yet firſt, 'twere fit that you expreſs</l>
+                     <l>By ſome Oblation, your true Thankfulneſs</l>
+                     <l>To our great God.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>That good Aſtoniſhment</l>
+                     <l>Only directs to what my Heart was bent.</l>
+                     <l>My Offering then, is all my Flocks of Sheep;</l>
+                     <l>With all the Downs, on which my Flocks I keep:</l>
+                     <l>All this I give; and what's of Gifts the beſt,</l>
+                     <l>My Self (the Donor) to be made his Prieſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>The Voyce of Heav'n, ſent by theſe darting Beams,</l>
+                     <l>I fear, the Anger of our God proclaims!</l>
+                     <stage>It Thunders.</stage>
+                     <l>Stay on this Holy Ground, whil'ſt I retire,</l>
+                     <l>And the Myſterious Depths of Fate inquire.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <stage>Soft Muſick plays till his Return.</stage>
+                  <stage>
+                     <hi>Re-Enter</hi> Iſmenius.</stage>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>The God declares, That he has ſeen</l>
+                     <l>How Faithleſs you in Love have been;</l>
+                     <l>And till that Humour's purg'd away,</l>
+                     <l>On's Altars you no Fire muſt lay.</l>
+                     <l>But to the Holy Fount repair,</l>
+                     <l>And waſh, in ſigne reclaim'd you are.</l>
+                     <l>That done, a ſingle Life proteſt,</l>
+                     <l>The God admits you for his Prieſt.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Stay Maſter, ſtay, and be advis'd by me;</l>
+                     <l>You know my Witt, and my Fidelity.</l>
+                     <l>Do not with ſuch a Servant part ſo ſoon;</l>
+                     <l>Whoſe Like, you'll never have when I am gon.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ast.</speaker>
+                     <l>Babble not, Sirrah, in this ſacred Place.</l>
+                     <l>Now, Beauty I defy thy Magick Power.</l>
+                     <l>Theſe wanton Rovers ſhall fly out no more.</l>
+                     <l>For ever in thoſe ſacred Walls confin'd,</l>
+                     <l>I'le chain my Brutal Senſe, t'enlarge my Nobler Mind.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <p>And, are you then reſolved?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <p>I am.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>But pray,</l>
+                     <l>Came now a rare freſh Beauty in your way,</l>
+                     <l>Would the cold Water of the Holy Font</l>
+                     <l>Cool you ſo much, you'd not engage upon't?</l>
+                  </sp>
+                  <sp>
+                     <pb n="43" facs="tcp:98288:26"/>
+                     <speaker>Aſt.</speaker>
+                     <l>Alas! the Change will be ſo great, that ſhe</l>
+                     <l>Would but at beſt a Statue be to me.</l>
+                     <l>I might, perhaps, the Work-man-ſhip commend;</l>
+                     <l>And only there, my Contemplations end.</l>
+                     <l>He's ſcarce half Man, that makes a Woman's Eyes</l>
+                     <l>His only Bliſs, his only Paradice.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <stage>
+                     <hi>Enter</hi> Iſmenius <hi>and</hi> Sylvanus.</stage>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>That you now offer him to your Son's Shade,</l>
+                     <l>What fitter Expiation can be made?</l>
+                     <l>It is but juſt, that Humane Blood ſhould flow,</l>
+                     <l>When offer'd t'a Divinity below,</l>
+                     <l>Such as <hi>Traumatius</hi> is.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>Your Will ſhall be obey'd: Do you prepare</l>
+                     <l>The ſacred Rites, and I the Secular.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <stage>
+                     <hi>Enter</hi> Evander <hi>and</hi> Philiſides.</stage>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>Think you ſhe'll come?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>Of that, doubt you no more,</l>
+                     <l>Than Day will follow, the Night went before.</l>
+                     <l>For none are here ſo impious, that they</l>
+                     <l>The Summons of a Prieſt dare diſobey.</l>
+                     <stage>
+                        <hi>Enter</hi> Aſtrea.</stage>
+                     <l>And ſee, how near my Word and Truth's ally'd.</l>
+                     <l>She's come already: Do you ſtep aſide.</l>
+                     <stage>Phil. <hi>ſteps aſide.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>If longer from you then I ſhould, I have ſtaid,</l>
+                     <l>Blame me not, Sir; what haſt I could, I made.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>I blame you not, fair Nymph; but grieve, that Fate</l>
+                     <l>Should ſo ordein, that you ſhould come too late.</l>
+                     <l>For, tho with ſo much Ardor for't ſhe pray'd,</l>
+                     <l>The laſt Sand in the Glaſs would not be ſtaid,</l>
+                     <l>Till in their ſeeing you, her dying Eyes</l>
+                     <l>Might make their ſett. Then be it no Surprize,</l>
+                     <l>To ſay, She's dead; your Friend, <hi>Euplaſte,</hi> 's dead.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <p>And is <hi>Euplaſte</hi> dead!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>No, no, ſhe's here!</l>
+                     <l>She lives when ere <hi>Aſtrea</hi> do's appear.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Astr.</speaker>
+                     <l>
+                        <hi>Philiſides!</hi> Oh then, I am betray'd!</l>
+                     <l>Riſe, riſe! my Brothers Murder to my aid:</l>
+                     <pb n="44" facs="tcp:98288:27"/>
+                     <l>And with cold Aſhes, taken from his Urne,</l>
+                     <l>Choak up that Fire do's to my Breaſt return.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>Why do you turn your frowning Eyes away?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <p>Becauſe the Rebels would my Soul betray.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>Can my deteſted ſight bring ſuch Surprize?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Astr.</speaker>
+                     <l>What Horrour in my Brother's Murderer lyes?</l>
+                     <l>Oh that that fatal Name muſt drive me hence!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>And can't you with one Minutes ſtay diſpence?</l>
+                     <l>Does one poor Sigh give ſuch a great Offence?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <p>One Minute's ſtay may be excus'd by Love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Astr.</speaker>
+                     <l>Take me to Death! for what but Death can prove</l>
+                     <l>So cruel, and ſo dire? Death will appear</l>
+                     <l>An eaſier Torment, than to tarry here,</l>
+                     <l>Within the reach of ſuch a blood-ſhot-Eye;</l>
+                     <l>'Tis leſs on Wheels, or torturing Wracks, to dye.</l>
+                  </sp>
+                  <stage>Exit</stage>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>Oh Life, ſince all thy Comfort flyes away,</l>
+                     <l>Why for a Plague, doſt thou behind it ſtay!</l>
+                     <l>Break, break, my Heart! Or, if at my Command</l>
+                     <l>Thou wilt not break, come then ſome bleſſed Hand</l>
+                     <l>And ſtrike thee dead.</l>
+                     <stage>
+                        <hi>Enter</hi> Iſmenius.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>Your Invocation's heard.</l>
+                     <l>The Hand to ſtrike, already is prepar'd.</l>
+                     <l>Then come away; for you muſt ſtrait be made</l>
+                     <l>A Victim to the bleſt <hi>Traumatius</hi> Shade.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>Oh ſtay, and bear him not ſo faſt away!</l>
+                     <l>Since ſacred Ghoſt, this Swain his Life muſt pay.</l>
+                     <l>Be not offended, dear immortal Shade,</l>
+                     <l>When all his open'd Veins are bleeding laid,</l>
+                     <l>If, to the Stream of Blood I add one Tear,</l>
+                     <l>T' encreaſe the Sacrifice.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>Oh, why this waſt</l>
+                     <l>Of Tears, <hi>Aſtrea,</hi> when the Seaſon's paſt,</l>
+                     <l>To have your pitty in! Your Tears, now ſhed,</l>
+                     <l>Are like Rain-Water, when the Plant is dead.</l>
+                     <l>How comes it thus to paſs, my being made</l>
+                     <l>A Sacrifice to your dead Brother's Shade,</l>
+                     <l>Should ſuch Compaſſion win, when all my Love,</l>
+                     <l>And Tortures there, could not your Pitty move?</l>
+                     <pb n="45" facs="tcp:98288:27"/>
+                     <l>When to <hi>Astatius</hi> you my Right could pay,</l>
+                     <l>And give your unkind ſtraggling Heart away.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>Oh do not this unjuſt Complaint purſue!</l>
+                     <l>'Twas You that gave my Love the mortal Blow.</l>
+                     <l>That, that I to my Brothers Murder owe.</l>
+                     <l>My Love and Piety did ſuch Conflicts make,</l>
+                     <l>That th' only Man I lov'd, I could forſake.</l>
+                     <l>My poor deplored unhappy Brother's Fall,</l>
+                     <l>Conceal'd my Faith, Love, Reaſon, Senſe, and All.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>But were your Love and Reaſon, Senſe, and All.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>But were your Love and Reaſon ſo far gon,</l>
+                     <l>That with your Charms, you could my Rival Crown?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Astr.</speaker>
+                     <l>Oh pardon me! I yeilded to my Doom;</l>
+                     <l>And my Obedience made my Martyrdom.</l>
+                     <l>I muſt not Love you, if you longer live:</l>
+                     <l>And if you dye, Eternally muſt grieve!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>In what a wretched State, Oh then am I;</l>
+                     <l>Can have no Will to live, and none to dye:</l>
+                     <l>For Hell my Life, and Hell my Death, you'll make,</l>
+                     <l>If Love you give not, or if Grief you take.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>How ever croſt, we in this Point agree,</l>
+                     <l>No two were ere ſo wretched made, as We.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>And if in that we ſuch proportion keep,</l>
+                     <l>'Tis juſt we ſhould in a like Meaſure weep.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>But when that Grief ſwells in the Breaſt too high,</l>
+                     <l>To give a ſtop to it, is Charity.</l>
+                     <l>Then Youth make haſt with us; and this proof give,</l>
+                     <l>How much by dying you deſerve to live.</l>
+                     <stage>
+                        <hi>Ex.</hi> Phil. <hi>&amp;</hi> Iſm.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>And ſhall, when he is gone, <hi>Aſtrea</hi> ſtay?</l>
+                     <l>As well the Subſtance gone, the Shadow may.</l>
+                     <l>No, to the Altar <hi>I</hi> with him will go,</l>
+                     <l>And with him Dye: 'Tis all done at one Blow.</l>
+                  </sp>
+                  <stage>
+                     <hi>As ſhe is going off the Inner part of the Temple, is diſcove<g ref="char:EOLhyphen"/>red, an Altar flaming;</hi> Evander <hi>ſtanding by it.</hi> Iſmeni<g ref="char:EOLhyphen"/>us, Sylvanus, <hi>Shepherds, Shepherdeſſes.</hi> Philiſides <hi>pre<g ref="char:EOLhyphen"/>pared for Sacrifice:</hi> Alveria <hi>ſtanding by.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Iſm.</speaker>
+                     <l>All the Pollutions, ere have been</l>
+                     <l>Let by thoſe Doors (thy Senſes) in,</l>
+                     <l>Or corrupt Fancies ever bred,</l>
+                     <l>Or Appetite engendered;</l>
+                     <pb n="46" facs="tcp:98288:28"/>
+                     <l>I with this Holy-Water, on</l>
+                     <l>Thee ſprinkled thus, do purge thee from.</l>
+                     <l>And now, to th' Altar I thee lead,</l>
+                     <l>To be a Victim to the Dead.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Evander.</stage>
+                  <sp>
+                     <speaker>Evan.</speaker>
+                     <l>And thus I give thee up—to Life:</l>
+                     <l>No Sacrifice, no uſe of Knife.</l>
+                     <stage>Diſcovers himſelf.</stage>
+                     <l>For ſee, the Shadow hence is fled;</l>
+                     <l>And, here's the Subſtance in its ſtead.</l>
+                     <l>And now, no more a Prieſt, unleſs it be</l>
+                     <l>To this his greateſt Deity.</l>
+                     <stage>To Alveria.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Omnes.</speaker>
+                     <p>
+                        <hi>Traumatius!</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Traum.</speaker>
+                     <l>Another time, I'le let you underſtand,</l>
+                     <l>How all my Wounds were Cur'd, and by what Hand.</l>
+                     <l>I had no Hopes, that you would ere agree,</l>
+                     <l>The fair <hi>Alveria</hi> ſhould be wed by Me:</l>
+                     <l>And what great Pitty, all would ſay, it was,</l>
+                     <l>That ſo much Youth and Beauty, as ſhe has,</l>
+                     <l>Should either waſtfully conſume away;</l>
+                     <l>Or, whil'ſt your Bleſſing on't you would not lay,</l>
+                     <l>Be gather'd moſt unhappily by me.</l>
+                     <l>I had reſolved, my ſuppoſed Death ſhould be</l>
+                     <l>The Means to give her up to better Fate;</l>
+                     <l>But what I ſuffer'd in't, I'le not Relate:</l>
+                     <l>My Pangs indeed, can be deſcrib'd by none.</l>
+                     <l>But this Aſſurance take, if to atone,</l>
+                     <l>My Love and Duty, you do here deny;</l>
+                     <l>Not in Diſguiſe, but <hi>I</hi> in Truth, ſhall dye.</l>
+                     <l>Iſmenius, Sylvanus, <hi>and</hi> Lilla <hi>Whiſper.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>My Attempt upon your Life—</l>
+                     <stage>
+                        <hi>To</hi> Phil.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>Has ſet upon</l>
+                     <l>My Breaſt, a noble Mark of Love; whereon,</l>
+                     <l>If ere <hi>I</hi> chance in Love to go awry,</l>
+                     <l>Like a good Schollar, <hi>I</hi> will caſt my Eye;</l>
+                     <l>And, by that Scar, be taught my Loyalty.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Alv.</speaker>
+                     <l>How great a Charge, <hi>Traumatius,</hi> againſt thee,</l>
+                     <l>Might I draw up? But that thou liv'ſt, and <hi>I</hi>
+                     </l>
+                     <l>Alive to ſee't! 'twill be my whole Employ</l>
+                     <l>To thank the Gods, and to rejoyce.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Traum.</speaker>
+                     <l>Whilſt <hi>I</hi>
+                     </l>
+                     <l>Give Veneration to a Conſtancy,</l>
+                     <pb n="47" facs="tcp:98288:28"/>
+                     <l>More worthy it, then are the Gods; and ſhow</l>
+                     <l>Obedience, equall to the Love I owe.</l>
+                     <l>The Ills <hi>I</hi> did, or might have caus'd, declare</l>
+                     <l>I did tranſgreſs: But All who Lovers are,</l>
+                     <l>Will pardon him, <hi>I</hi> hope, who went a-ſtray</l>
+                     <l>Only in Thought, that 'twas Loves faireſt Way.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aſtr.</speaker>
+                     <l>Ah, my <hi>Philiſides!</hi> How am I brought</l>
+                     <l>Into <hi>Elyſium,</hi> by this Change is wrought,</l>
+                     <l>To ſee thee live; and I have leave again,</l>
+                     <l>To ſeal our Loves? There, there my Joy does Raign!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <l>Oh, for an Eccho now, that might repeat</l>
+                     <l>Theſe Words a Thouſand times, they are ſo ſweet!</l>
+                     <l>But all the Croſſes, which our Love has met,</l>
+                     <l>Shall but a higher Guſt t' our Pleaſures ſet.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvan.</speaker>
+                     <l>And can you take up ſuch a ſtrange belief,</l>
+                     <l>That Joy becomes us in a Day of Grief?</l>
+                     <l>Be making Marriages, when ſpilt Blood lyes</l>
+                     <l>Freſh on the Earth, and with a loud Voyce, cryes</l>
+                     <l>To th' Gods, and they to us for Juſtice?</l>
+                     <l>Is not <hi>Astatius</hi> ſlain?</l>
+                     <stage>
+                        <hi>Enter</hi> Aſtatius <hi>and</hi> Clinias.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Aſt.</speaker>
+                     <l>Yes, is ſo ſlain,</l>
+                     <l>That he will nere Converſe with you again.</l>
+                     <l>I have Renounc'd all Bonds, what ere they be,</l>
+                     <l>Of ſenſual Love from any one to me.</l>
+                     <l>Enjoy your Freedoms, and return me mine:</l>
+                     <l>My Heart ingulphs all Love in the Divine.</l>
+                     <l>You are a Prieſt <hi>Iſmenius<g ref="char:punc">▪</g>
+                        </hi> and I crave</l>
+                     <l>Your Abſolution from all Crimes I have,</l>
+                     <l>Thro the impulſe of Youthful Blood, done here:</l>
+                     <l>For I am to move now in a higher Sphear.</l>
+                     <l>Advanced from following Sheep,</l>
+                     <l>To ſerve the Altar of that God, from whom</l>
+                     <l>My Health, my Bliſs, and my Devotion, come.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clin.</speaker>
+                     <l>Why, what a terrible ſad Change is here?</l>
+                     <l>I now, forſooth, muſt Church it every Day,</l>
+                     <l>That ſcarce did ſee it above once a Year:</l>
+                     <l>Muſt down upon my Marrow-bones, to pray.</l>
+                     <l>My Belly muſt for Sins, much Pennance do.</l>
+                     <l>What a ſad Fate is <hi>Clinius</hi> come to now?</l>
+                     <l>
+                        <hi>I</hi> had Meat and Drink, the like was never ſeen:</l>
+                     <l>But now, poor Guts, you'll nere be fill'd agen.</l>
+                  </sp>
+                  <sp>
+                     <pb n="48" facs="tcp:98288:29"/>
+                     <speaker>Sylvan.</speaker>
+                     <l>Since then the Day's clear'd up, there now,</l>
+                     <l>No Cloud ſhall ſtay upon my Brow.</l>
+                     <l>Take both your Loves.</l>
+                     <l>And Father, with your Sacerdotall-Seal,</l>
+                     <l>Put you this Grant of mine, paſt all Repeal.</l>
+                     <l>My Son reſtor'd to Life, my Daughter bleſt,</l>
+                     <l>Is ſuch a Joy, as cannot be expreſt!</l>
+                     <l>Then, to acknowledge what my Stars have giv'n,</l>
+                     <l>Pay you your Debts to Love, and I to Heav'n.</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <head>EPILOGUE, Spoken by <hi>Clinias.</hi>
+            </head>
+            <sp>
+               <l>GAd Gentlemen, I know not what to ſay:</l>
+               <l>Something I had to talk about the Play.</l>
+               <l>The Wits, the Poets, and the Critques,— r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t 'em,</l>
+               <l>And twenty other things, but I've forgot 'em.</l>
+               <l>But 'tis no matter; Say we what we will,</l>
+               <l>You are the ſame hard-Hearted Judges ſtill.</l>
+               <l>You will damne Plays, in ſpight of all we ſay:</l>
+               <l>But 'tis an unknown Author wrote this Play.</l>
+               <l>Known or unknown, 'tis all alike to You;</l>
+               <l>Courtſhip and Prayers, and All, will never d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>To ruine a poor Scribler, is your Glory.</l>
+               <l>New Plays,</l>
+               <l>No more than a new Face, can ſtand before you.</l>
+               <l>Ugly or Old, 'tis all freſh Game<g ref="char:punc">▪</g> and all</l>
+               <l>Are Prize, that in your Ravenous Clutches fall.</l>
+               <l>You Gentlemen, uſe a new Author more</l>
+               <l>Unmercifully, than an ugly Where.</l>
+               <l>You ſcarce can ſit three Hours at a dull Play;</l>
+               <l>But t' an ill Face, a whole Week's Seige you'll lay.</l>
+               <l>And in meer ſpight<g ref="char:punc">▪</g> ſome Pleaſure you will take,</l>
+               <l>If but to think <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'th cuckold that you make.</l>
+            </sp>
+            <pb facs="tcp:98288:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>
